@@ -1,0 +1,35 @@
+{
+  "name": "ไฟฟ้า",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:lv_steam_turbine",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/lv_steam_turbine_asbl",
+      "text": "Steam Turbine ใช้ Steam ผลิตไฟฟ้า โดยแปลง Steam ทุกหนึ่ง mb เป็น 1 EU และแปลงได้สูงสุด 32 mb ทุกติ๊ก"
+    },
+    {
+      "type": "text",
+      "text": "Steam Turbine ส่งไฟฟ้าไปยังเครื่องจักรที่เชื่อมตรงกับด้านส่งออกโดยอัตโนมัติ และเชื่อมต่อสายไฟเฉพาะที่ด้านส่งออก มี$(thing)ระดับ$() Low Voltage (LV)$(br2)สายไฟทุกชนิดมีระดับที่กำหนดอัตราส่ง EU/t และเครื่องจักรที่เชื่อมต่อได้ Copper, Silver และ Tin เป็น LV ส่วน Cupronickel กับ Electrum เป็น MV เป็นต้น..."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/lv_diesel_generator_asbl",
+      "text": "Diesel Generator เป็นอีกทางเลือกแทน Steam Turbine ใช้เชื้อเพลิงหลายชนิดผลิตไฟฟ้า ตอนนี้คุณเผา Creosote ได้ (ดูรายชื่อเชื้อเพลิงที่เผาได้ใน REI)"
+    },
+    {
+      "type": "text",
+      "text": "เครือข่ายสายไฟจำกัดปริมาณพลังงานที่ดึงเข้า: สูงสุด 256 EU/t สำหรับ LV, 1024 EU/t สำหรับ MV และ 8192 EU/t สำหรับ HV แต่เนื่องจากเครือข่ายไม่จำกัดการจ่ายออก และสายไฟมีที่เก็บพลังงานภายในเล็กน้อย เครือข่าย LV จึงจ่ายเกิน 256 EU/t ได้ช่วงสั้น ๆ$(br2)อย่างไรก็ตาม เครื่องจักรไฟฟ้าแบบบล็อกเดียวจะเชื่อมต่อเฉพาะสายไฟ LV!"
+    },
+    {
+      "type": "text",
+      "text": "หากต้องการส่งพลังงานมากขึ้น ต้องแยกเครือข่ายท่อหลายเครือข่ายหรือใช้ Transformer$(br2)Transformer จากระดับต่ำไปสูง (เช่น LV ไป MV) มีขาเข้า 5 ด้านและขาออก 1 ด้าน ส่วนจากระดับสูงไปต่ำ (เช่น MV ไป LV) มีขาเข้า 1 ด้านและขาออก 5 ด้าน"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/transformer/lv_mv/up_asbl",
+      "recipe2": "modern_industrialization:electric_age/transformer/lv_mv/down_asbl"
+    }
+  ],
+  "sortnum": 104
+}

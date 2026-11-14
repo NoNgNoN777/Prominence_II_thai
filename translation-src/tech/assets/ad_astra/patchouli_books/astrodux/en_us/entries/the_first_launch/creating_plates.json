@@ -1,0 +1,18 @@
+{
+  "name": "การผลิต Plate",
+  "icon": "ad_astra:compressor",
+  "sortnum": 1,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Compressor",
+      "item": "ad_astra:compressor",
+      "text": "เมื่อมีพลังงานแล้ว ควรคราฟต์ Compressor เครื่องนี้อัด Ingot และบล็อกให้เป็น Plate ซึ่งต้องใช้คราฟต์สิ่งต่าง ๆ มากมายได้"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:compressor"
+    }
+  ]
+}

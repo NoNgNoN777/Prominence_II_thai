@@ -1,0 +1,42 @@
+{
+  "name": "จรวดลำแรกของคุณ",
+  "icon": "ad_astra:nasa_workbench",
+  "sortnum": 3,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "NASA Workbench",
+      "item": "ad_astra:nasa_workbench",
+      "text": "หากต้องการสร้างจรวด ต้องรวบรวมชิ้นส่วนทั้งหมดก่อน ได้แก่ Nose Cone, Plate, Fin, Tank และ Engine จากนั้นประกอบจรวดใน NASA Workbench ซึ่งออกแบบมาสำหรับจรวดโดยเฉพาะ"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "NASA Workbench",
+      "recipe": "ad_astra:nasa_workbench"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "pattern": [
+          [
+            "   ",
+            " 0 ",
+            "   "
+          ]
+        ],
+        "mapping": {
+          "0": "ad_astra:launch_pad"
+        },
+        "symmetrical": true
+      },
+      "text": "หากต้องการวางจรวดที่สร้างใหม่ ต้องสร้าง Launch Pad ก่อน"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Launchpad",
+      "recipe": "ad_astra:launch_pad",
+      "text": "เมื่อสร้าง Launch Pad แล้ว ให้วางจรวดตรงกลาง หากต้องการ คุณจ่ายสัญญาณให้ส่วนใดของ Launch Pad ก็ได้เพื่อปล่อยจรวดอัตโนมัติเมื่อเติมเชื้อเพลิงแล้ว"
+    }
+  ]
+}

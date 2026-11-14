@@ -1,0 +1,20 @@
+{
+  "name": "ของรางวัล",
+  "icon": "ad_astra:mars_globe",
+  "sortnum": 0,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Globes",
+      "item": "ad_astra:earth_globe",
+      "text": "Globe เป็นบล็อกรางวัลที่พบเมื่อผ่านถึงท้ายดันเจียน ไม่มีหน้าที่ใช้งานจริง แต่เป็นบล็อกตกแต่ง คลิกขวาเพื่อหมุน หรือจ่ายสัญญาณเรดสโตนให้หมุนต่อเนื่องได้ ขณะนี้มีเพียง Moon Globe ที่หาได้ในโหมดเอาชีวิตรอด"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Space Paintings",
+      "item": "ad_astra:space_painting",
+      "text": "Space Painting พบได้ในหีบตามดันเจียน ทำงานเหมือน Painting ปกติ แต่วางได้เฉพาะภาพจากม็อดนี้ มีทั้งหมด 14 ภาพให้ตามหา"
+    }
+  ]
+}

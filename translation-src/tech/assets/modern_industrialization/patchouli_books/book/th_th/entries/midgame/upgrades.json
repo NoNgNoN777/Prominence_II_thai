@@ -1,0 +1,20 @@
+{
+  "name": "อัปเกรด!",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:basic_upgrade",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "อัปเกรดการโอเวอร์คล็อก",
+      "item": "modern_industrialization:basic_upgrade",
+      "text": "รู้หรือไม่ว่าเครื่องจักรไฟฟ้าปกติโอเวอร์คล็อกได้สูงสุด 32 EU/t และเครื่องจักรไฟฟ้าหลายบล็อกได้สูงสุด 128 EU/t?$(br2) เพิ่มอัปเกรดในเมนูเครื่องจักรหรือโครงสร้างเพื่อเพิ่มขีดจำกัดโอเวอร์คล็อก! ดูค่าที่แน่นอนได้ใน REI"
+    },
+    {
+      "type": "spotlight",
+      "title": "อัปเกรด Machine Hull",
+      "item": "modern_industrialization:advanced_machine_hull",
+      "text": "ทำได้จริง! ใช้ Advanced Machine Hull คลิกขวาที่เครื่องจักรเพื่อเปลี่ยนเป็นระดับ MV แล้วเครื่องจะรับเฉพาะการเชื่อมต่อสายไฟ MV เท่านั้น ตั้งค่าหรือถอด Machine Hull ผ่านหน้าจอควบคุมได้ด้วย"
+    }
+  ],
+  "sortnum": 200
+}

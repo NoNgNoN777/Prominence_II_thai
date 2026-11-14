@@ -1,0 +1,36 @@
+{
+  "name": "Lunarians",
+  "icon": "ad_astra:moon_stone_bricks",
+  "sortnum": 7,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Lunarian",
+      "item": "ad_astra:moon_stone_bricks",
+      "text": "ทั่ว Moon มีหมู่บ้านใต้ดินขนาดใหญ่ที่มีผู้อยู่อาศัย เป็นมนุษย์ต่างดาวรูปร่างคล้าย Villager บน Earth ซึ่งเรียกตัวเองว่า Lunarian ต่างจากพวกบน Earth ตรงที่ Lunarian ไม่ต้องใช้ออกซิเจน และอยู่รอดในสภาพหนาวจัดของ Moon ได้"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "ad_astra:lunarian",
+      "default_rotation": 45
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Lunarian มีรายการแลกเปลี่ยนต่างจาก Villager บน Earth ได้แก่ วัสดุเฉพาะดาวเคราะห์ Space Suit และอุปกรณ์ออกซิเจน"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Wandering Trader",
+      "item": "ad_astra:lunarian_wandering_trader_spawn_egg",
+      "text": "Lunarian Wandering Trader ปรากฏบนดวงจันทร์และดาวเคราะห์ทุกดวง มีของเกี่ยวกับจรวดหลายชนิดที่อาจช่วยชีวิตคุณได้ เช่น Launch Pad, Oxygen, Fuel, Soul Torch และ Water รับชำระด้วย Emerald ซึ่งพบได้ทั่วไปในโครงสร้างต่าง ๆ บนดวงจันทร์และดาวเคราะห์"
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Wandering Trader",
+      "entity": "ad_astra:lunarian_wandering_trader",
+      "default_rotation": 45,
+      "scale": 0.8
+    }
+  ]
+}

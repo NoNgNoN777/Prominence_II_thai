@@ -1,0 +1,18 @@
+{
+  "create.tooltip.speedRequirement.max": "สูงสุด",
+  "createestrogen.ponder.basic.header": "วิธีใช้ Centrifuge",
+  "createestrogen.ponder.basic.text_1": "Centrifuge ไม่มีช่องเก็บของ ต้องวางภาชนะบรรจุของเหลวรอบเครื่องจึงจะทำงาน!",
+  "createestrogen.ponder.basic.text_2": "ป้อนของเหลวเข้าจากด้านล่างได้",
+  "createestrogen.ponder.basic.text_3": "และส่งของเหลวออกทางด้านบน",
+  "createestrogen.ponder.intro.header": "ข้อกำหนดของ Centrifuge",
+  "createestrogen.ponder.intro.text_1": "Centrifuge ต้องใช้ความเร็วสูงสุด (256 RPM) จึงจะทำงาน!",
+  "createestrogen.recipe.centrifuging": "การปั่นแยก",
+  "emi.category.createestrogen.centrifuging": "การปั่นแยก",
+  "itemGroup.createestrogen.createestrogen": "Create: Estrogen",
+  "block.createestrogen.centrifuge": "Centrifuge",
+  "block.createestrogen.moth_seat": "Rosy Maple Seat",
+  "item.createestrogen.incomplete_estrogen_patches": "Incomplete Estrogen Patch",
+  "item.createestrogen.incomplete_uwu": "Incomplete UwU",
+  "item.createestrogen.package": "Estrogen Pill Package",
+  "item.createestrogen.used_filter": "Used Filter"
+}

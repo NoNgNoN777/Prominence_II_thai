@@ -1,0 +1,29 @@
+{
+  "name": "ประตูเลื่อน",
+  "icon": "ad_astra:ostrum_sliding_door",
+  "sortnum": 3,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "ประตูเลื่อน",
+      "item": "ad_astra:airlock",
+      "text": "Sliding Door เป็นประตูขนาดใหญ่ 3x3 เมื่อปิดจะกักออกซิเจนไว้ จึงเหมาะสำหรับทำห้องปรับความดัน ล็อกประตูได้โดยถือ Wrench แล้ว Shift+คลิกขวา ประตูที่ล็อกจะเปิดได้ด้วยเรดสโตนเท่านั้น"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:iron_sliding_door",
+      "recipe2": "ad_astra:steel_sliding_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:desh_sliding_door",
+      "recipe2": "ad_astra:ostrum_sliding_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:airlock",
+      "recipe2": "ad_astra:reinforced_door"
+    }
+  ]
+}

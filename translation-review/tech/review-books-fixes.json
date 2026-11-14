@@ -1,0 +1,46 @@
+{
+  "replacements": [
+    {
+      "path": "E:\\minecratf\\work\\Prominence-tech\\supplement-th\\assets\\modern_industrialization\\patchouli_books\\book\\en_us\\categories\\electric_age.json",
+      "old": "You have discovered that steam can be converted to a new energy. With this innovation, machines can be much more complex and run much faster. Welcome to the Electric Age!",
+      "new": "คุณค้นพบว่าแปลง Steam เป็นพลังงานรูปแบบใหม่ได้ ด้วยนวัตกรรมนี้ เครื่องจักรจึงซับซ้อนและทำงานเร็วขึ้นได้มาก ยินดีต้อนรับสู่ยุคไฟฟ้า!",
+      "reason": "Category description remained English; translate full prose while preserving macros."
+    },
+    {
+      "path": "E:\\minecratf\\work\\Prominence-tech\\supplement-th\\assets\\modern_industrialization\\patchouli_books\\book\\en_us\\categories\\endgame.json",
+      "old": "You're in the endgame now!$(br2)Was nuclear fission the only thing that quantum physics had to offer? Of course not!",
+      "new": "ตอนนี้คุณมาถึงช่วงท้ายเกมแล้ว!$(br2)นิวเคลียร์ฟิชชันคือสิ่งเดียวที่ฟิสิกส์ควอนตัมมอบให้หรือ? ไม่ใช่แน่นอน!",
+      "reason": "Category description remained English; translate full prose while preserving macros."
+    },
+    {
+      "path": "E:\\minecratf\\work\\Prominence-tech\\supplement-th\\assets\\modern_industrialization\\patchouli_books\\book\\en_us\\categories\\introduction.json",
+      "old": "Everything you need to know before starting your journey with Modern Industrialization!",
+      "new": "ทุกสิ่งที่ต้องรู้ก่อนเริ่มการเดินทางกับ Modern Industrialization!",
+      "reason": "Category description remained English; translate full prose while preserving macros."
+    },
+    {
+      "path": "E:\\minecratf\\work\\Prominence-tech\\supplement-th\\assets\\modern_industrialization\\patchouli_books\\book\\en_us\\categories\\midgame.json",
+      "old": "Now that you have mastered the basics of electricity and oil processing, you have the skill and the infrastructure to scale up your factory massively. Welcome to the Midgame!$(br2)The remaining pages of this guide book will give you the most important information only, the rest is for you to figure out!",
+      "new": "เมื่อเชี่ยวชาญพื้นฐานไฟฟ้าและการแปรรูป Oil แล้ว คุณมีทั้งทักษะและโครงสร้างพื้นฐานพร้อมขยายโรงงานอย่างมหาศาล ยินดีต้อนรับสู่ช่วงกลางเกม!$(br2)หน้าที่เหลือของคู่มือนี้จะให้เฉพาะข้อมูลสำคัญที่สุด ส่วนที่เหลือให้คุณค้นหาคำตอบด้วยตัวเอง!",
+      "reason": "Category description remained English; translate full prose while preserving macros."
+    },
+    {
+      "path": "E:\\minecratf\\work\\Prominence-tech\\supplement-th\\assets\\modern_industrialization\\patchouli_books\\book\\en_us\\categories\\steam_age.json",
+      "old": "You have heard that it is possible to combine copper and tin into a new material called bronze. Perhaps it could be used to harness the power of steam for automatic processing. Welcome to the Steam Age!",
+      "new": "คุณได้ยินว่าสามารถผสม Copper กับ Tin เป็นวัสดุใหม่ชื่อ Bronze ได้ บางทีมันอาจช่วยนำพลังไอน้ำมาใช้แปรรูปแบบอัตโนมัติ ยินดีต้อนรับสู่ยุคไอน้ำ!",
+      "reason": "Category description remained English; translate full prose while preserving macros."
+    },
+    {
+      "path": "E:\\minecratf\\work\\Prominence-tech\\supplement-th\\assets\\modern_industrialization\\patchouli_books\\book\\en_us\\entries\\midgame\\high_pressure.json",
+      "old": "การอัด Water เป็น HP Water ใช้พลังงานมาก แต่ Turbine ไม่คืนพลังงานส่วนนั้น! ใช้ Heat Exchanger กู้ HP Water กลับมาใช้รอบต่อไปได้",
+      "new": "การอัด Water เป็น HP Water ใช้พลังงานมาก แต่ Turbine จะไม่คืน HP Water นั้น! ใช้ Heat Exchanger กู้ HP Water กลับมาใช้รอบต่อไปได้",
+      "reason": "Clarify that turbine does not return HP water, matching preceding paragraph and recover-water logic; original Thai incorrectly says it does not return energy."
+    },
+    {
+      "path": "E:\\minecratf\\work\\Prominence-tech\\supplement-th\\assets\\modern_industrialization\\patchouli_books\\book\\en_us\\entries\\steam_age\\pipes.json",
+      "old": "ท่อแต่ละชนิดทำงานต่างกัน$(br2)ทุกติ๊ก Fluid Pipe จะพยายามดึงจากบล็อกที่เชื่อมทั้งหมดอย่างเท่า ๆ กัน แล้วใส่กลับอย่างเท่า ๆ กัน $(l:modern_industrialization:midgame/fluid_transfer)อ่านเรื่องความเร็วเพิ่มเติมที่นี่$()$(br2)Item Pipe จะใส่ไอเทมในจุดที่มีลำดับสูงกว่าก่อน และส่งครั้งละ 16 ไอเทมทุกสองสามวินาที $(l)อัปเกรดด้วย Motor ได้$()",
+      "new": "ท่อแต่ละชนิดทำงานต่างกัน$(br2)ทุกติ๊ก Fluid Pipe จะพยายามดึงจากบล็อกที่เชื่อมทั้งหมดอย่างเท่า ๆ กัน แล้วกระจายใส่ปลายทางอย่างเท่า ๆ กัน $(l:modern_industrialization:midgame/fluid_transfer)อ่านเรื่องความเร็วเพิ่มเติมที่นี่$()$(br2)Item Pipe จะใส่ไอเทมในจุดที่มีลำดับสูงกว่าก่อน และส่งครั้งละ 16 ไอเทมทุกสองสามวินาที $(l)อัปเกรดด้วย Motor ได้$()",
+      "reason": "Fluid pipe inserts evenly into destinations, not back into original source."
+    }
+  ]
+}

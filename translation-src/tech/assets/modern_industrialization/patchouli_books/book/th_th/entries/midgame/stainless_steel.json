@@ -1,0 +1,24 @@
+{
+  "name": "Stainless Steel",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:stainless_steel_dust",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Stainless Steel",
+      "item": "modern_industrialization:stainless_steel_ingot",
+      "text": "Stainless Steel เป็นวัสดุถัดไปที่คุณต้องใช้จำนวนมาก อ่านต่อเพื่อดูเหตุผล!$(br2)เผา Stainless Steel Dust ใน EBF จะได้ Hot Ingot ซึ่งใช้ Vacuum Freezer ทำให้เย็นกลับเป็น Ingot ปกติได้"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/vacuum_freezer_asbl",
+      "text": "ดูวัสดุพื้นฐานได้ใน REI และดูรูปร่างที่แน่นอนได้ด้วย Wrench!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/distillation_tower_asbl",
+      "text": "เมื่อเริ่มผลิต Digital Circuit ได้ อย่าลืมสร้าง Distillation Tower! Distillery ให้ผลผลิตแปรรูปน้ำมันเพียงชนิดเดียว แต่ Tower ให้หนึ่งชนิดต่อชั้น!"
+    }
+  ],
+  "sortnum": 201
+}

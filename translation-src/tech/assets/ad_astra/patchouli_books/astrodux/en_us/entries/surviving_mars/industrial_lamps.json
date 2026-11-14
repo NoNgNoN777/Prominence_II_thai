@@ -1,0 +1,19 @@
+{
+  "name": "โคมไฟอุตสาหกรรม",
+  "icon": "ad_astra:lime_industrial_lamp",
+  "sortnum": 2,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "โคมไฟอุตสาหกรรม",
+      "item": "ad_astra:small_blue_industrial_lamp",
+      "text": "Industrial Lamp มีครบ 16 สี ทั้งขนาดเล็กและใหญ่ ตามค่าเริ่มต้นทุกดวงจะปล่อยแสงสีขาวธรรมดา แต่หากมี $(l:https://modrinth.com/mod/shimmer!)Shimmer$(/l) แต่ละดวงจะปล่อยแสงตามสีของตัวเอง"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:magenta_industrial_lamp",
+      "recipe2": "ad_astra:small_red_industrial_lamp"
+    }
+  ]
+}

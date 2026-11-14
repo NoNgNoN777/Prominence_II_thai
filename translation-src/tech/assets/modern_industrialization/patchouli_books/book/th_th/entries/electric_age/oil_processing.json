@@ -1,0 +1,26 @@
+{
+  "name": "การแปรรูปน้ำมัน",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:diesel_bucket",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:oil/oil_drilling_rig_asbl",
+      "text": "Oil Drilling Rig เป็นโครงสร้างหลายบล็อกขนาดใหญ่ที่ใช้ Fluid Pipe เจาะหา Crude Oil ใต้ Bedrock พูดง่าย ๆ ก็คือเหมืองน้ำมัน การแปรรูป Oil ให้ทั้งผลพลอยได้และพลังงานจำนวนมาก!"
+    },
+    {
+      "type": "text",
+      "text": "โครงสร้างประกอบด้วย Steel Machine Casing, Steel Pipe Machine Casing และ Chain ดูได้โดยวางตัวควบคุมแล้วถือ Wrench สามารถแทน Hatch ด้วย Steel Machine Casing ได้ แต่ต้องมี Item Input Hatch, Fluid Output Hatch และ Energy Input Hatch อย่างน้อยอย่างละหนึ่งตัว!$(br2)Crude Oil ใช้ผลิตเชื้อเพลิงหลายชนิดและช่วยผลิต Rubber Sheet ได้มีประสิทธิภาพขึ้น"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/mv_diesel_generator_asbl",
+      "text": "Diesel Generator เผาเชื้อเพลิงได้หลายชนิด ดู EU ที่แต่ละชนิดให้ได้ใน REI เครื่องผลิตได้สูงสุด 256 EU/t และเชื่อมต่อเฉพาะสายไฟ MV"
+    },
+    {
+      "type": "text",
+      "text": "Diesel Generator ใช้เชื้อเพลิงเฉพาะเมื่อจำเป็น แต่หากต้องการพลังงานต่อเนื่อง ใส่เชื้อเพลิงเหลวแทนไอเทมใน Large Steam Boiler ได้$(br2)Large Steam Boiler ที่ร้อนเต็มที่จะผลิตพลังงานประมาณสองเท่าของ Diesel Generator เมื่อใช้เชื้อเพลิงปริมาณเท่ากัน"
+    }
+  ],
+  "sortnum": 109
+}

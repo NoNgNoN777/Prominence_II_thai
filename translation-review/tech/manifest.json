@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-15",
+  "instance_version": "Prominence II 4.1.3 / Minecraft 1.20.1 Fabric",
+  "lang_targets": 6599,
+  "english_name_overrides": 5733,
+  "markdown_files": 147,
+  "patchouli_en_us_files": 75,
+  "patchouli_th_th_files": 75,
+  "tips": 17,
+  "fancymenu_layout_files": 2,
+  "game_tested": false,
+  "installed": false,
+  "warnings": "Intentional English names and inherited format tokens require disposition/in-game check.",
+  "base_commit": "c92b53e"
+}

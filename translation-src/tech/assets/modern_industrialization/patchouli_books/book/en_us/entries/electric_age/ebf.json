@@ -1,0 +1,28 @@
+{
+  "name": "Electric Blast Furnace",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:electric_blast_furnace",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/electric_blast_furnace_asbl",
+      "text": "Electric Blast Furnace เป็นรุ่นไฟฟ้าของ Steam Blast Furnace ปลดล็อกสูตรใหม่ และเหมือนเครื่องจักรไฟฟ้าหลายบล็อกอื่นที่มีขีดจำกัดโอเวอร์คล็อกเริ่มต้น 128 EU/t"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/cupronickel/craft/coil",
+      "text": "EBF ประกอบด้วย Heatproof Machine Casing หนึ่งชั้น ตามด้วย Cupronickel Coil แบบกลวงสองชั้น และ Heatproof Machine Casing อีกหนึ่งชั้น ตัวควบคุมต้องอยู่ชั้นล่างสุด ส่วน Hatch อยู่ชั้นบนสุดหรือล่างสุด"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/basic/energy_input_hatch",
+      "text": "อย่าลืม Energy Input Hatch ไม่เช่นนั้น EBF จะไม่มีพลังงาน! LV Energy Input Hatch เชื่อมต่อได้เฉพาะสายไฟ LV"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/advanced/energy_input_hatch",
+      "text": "MV Energy Input Hatch เชื่อมต่อได้เฉพาะสายไฟ MV ซึ่งมีประโยชน์เมื่อ EBF ต้องการพลังงานมาก ๆ! ตอนนี้คุณยังคราฟต์ไม่ได้ แต่จำไว้ว่ามีให้ใช้ในภายหลัง..."
+    }
+  ],
+  "sortnum": 106
+}

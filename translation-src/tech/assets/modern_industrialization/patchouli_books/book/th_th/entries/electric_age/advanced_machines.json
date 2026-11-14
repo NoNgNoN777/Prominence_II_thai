@@ -1,0 +1,39 @@
+{
+  "name": "เครื่องจักรขั้นสูง",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:advanced_machine_hull",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Aluminum",
+      "item": "modern_industrialization:aluminum_ingot",
+      "text": "Aluminum เป็นวัสดุสำหรับสร้างเครื่องจักรที่ก้าวหน้ายิ่งขึ้น เช่นเดียวกับเครื่องจักรไฟฟ้าอื่น เครื่องใหม่เหล่านี้เชื่อมต่อได้เฉพาะสายไฟ LV ใส่ Bauxite Dust ใน Electric Blast Furnace เพื่อรับ Aluminum Nugget"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/centrifuge_asbl",
+      "text": "Centrifuge แยกไอเทมออกจากกันด้วยการหมุนอย่างรวดเร็ว ใช้ผลิต Carbon Dust และปลดล็อกสูตร Steel กับ Silicon ที่ดีกว่าเดิมได้"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/chemical_reactor_asbl",
+      "text": "Chemical Reactor ทำให้ไอเทมและของเหลวเกิดปฏิกิริยากัน"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/distillery_asbl",
+      "text": "Distillery แยกส่วนประกอบที่เบากว่าออกจากของเหลวชนิดต่าง ๆ ซึ่งมีประโยชน์มากในการแปรรูป Oil"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/electrolyzer_asbl",
+      "text": "Electrolyzer แยกวัสดุออกเป็นส่วนประกอบต่าง ๆ ด้วยกระแสไฟฟ้าแรงสูง ใช้แยก Bauxite Dust ให้ได้ Aluminum Dust แล้วนำไปเผาใน EBF เป็น Aluminum Ingot ได้โดยตรง"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/configurable_tank_asbl",
+      "text": "Configurable Tank เทียบได้กับ Configurable Chest ในรูปแบบของเหลว$(br2)มีช่องที่ตั้งค่าได้ 9 ช่อง แต่ละช่องจุได้ 16 ถัง พร้อมระบบดึงออกอัตโนมัติ! เหมาะกับระบบอัตโนมัติที่ใช้ของเหลวหลายชนิด!"
+    }
+  ],
+  "sortnum": 107
+}

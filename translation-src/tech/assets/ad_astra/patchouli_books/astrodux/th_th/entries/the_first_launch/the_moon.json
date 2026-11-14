@@ -1,0 +1,24 @@
+{
+  "name": "The Moon",
+  "icon": "ad_astra:/textures/environment/moon.png",
+  "sortnum": 9,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "The Moon",
+      "item": "ad_astra:desh_ingot",
+      "text": "ยินดีด้วยที่มาถึง Moon! ดินแดนนี้แห้งแล้ง สีเทา และไร้ชีวิตสุดสายตา แต่ใต้ดินมีทรัพยากรสำคัญถัดไปของ Ad Astra นั่นคือ Desh! ใช้คราฟต์เครื่องจักรขั้นสูง สถานีอวกาศ และ Tier 2 Rocket"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "สภาพแวดล้อม",
+      "text": "สภาพแวดล้อมบน Moon ต่างจาก Earth มาก เพราะไม่มีออกซิเจนและหนาวจัด น้ำที่พยายามวางจะแข็งตัว และบล็อกที่จุดไฟอย่าง Torch จะแตก พืชและพืชผลจะตายอย่างรวดเร็วเช่นกัน แก้ผลกระทบเหล่านี้ได้ด้วย Oxygen Distributor ซึ่งจะอธิบายภายหลัง"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "กลับบ้าน",
+      "text": "หากต้องการกลับ Earth ให้เปิด Lander (Shift+คลิกขวา) แล้วเก็บจรวด เชื้อเพลิง และ Launch Pad ทุบ Lander เพื่อนำออก วาง Launch Pad ตั้งจรวด และเติมเชื้อเพลิง จากนั้นกด $(k:jump) แล้วบินกลับ Earth"
+    }
+  ]
+}

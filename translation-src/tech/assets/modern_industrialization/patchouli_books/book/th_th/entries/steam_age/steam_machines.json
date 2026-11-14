@@ -1,0 +1,46 @@
+{
+  "name": "เครื่องจักรไอน้ำ",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_furnace",
+  "pages": [
+    {
+      "type": "text",
+      "text": "ถึงเวลาสร้างเครื่องจักร Bronze แล้ว Boiler จะผลิตและส่ง Steam ไปยังเครื่องข้างเคียงอัตโนมัติ สูงสุด 8 millibucket ต่อติ๊ก$(br2)เครื่อง Bronze ทำสูตรได้สูงสุด 2 EU/t หมายถึงใช้พลังงาน 2 หน่วยต่อติ๊ก และ Steam 1 millibucket = 1 EU ดังนั้น Boiler ที่ร้อนเต็มที่จ่ายให้ 4 เครื่องพร้อมกันได้!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/compressor_asbl",
+      "text": "Compressor เปลี่ยน Ingot เป็น Plate ในอัตรา 1:1 และเปลี่ยน Double Ingot แต่ละชิ้นเป็น Plate 2 ชิ้นได้ น่าจะเป็นเครื่องแรกที่คุณอยากสร้าง!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/mixer_asbl",
+      "text": "Mixer ช่วยผสม Dust ให้ผลผลิต Bronze, Fire Clay และภายหลัง Uncooked Steel ในอัตราที่ดีกว่า และสร้าง Cobblestone กับ Clay ได้ด้วย"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/macerator_asbl",
+      "text": "Macerator เปลี่ยน Crushed Dust หรือ Raw Ore 3 ชิ้นเป็น Dust 4.5 ชิ้น เพิ่มผลผลิตแร่ได้คุ้มสุด ๆ! รีไซเคิลวัสดุหลายชนิดให้เป็น Dust ได้ด้วย"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/cutting_machine_asbl",
+      "text": "Cutting Machine ให้อัตราผลผลิต Bolt, Gear, Ring และ Rod ที่ดีกว่า โดยใช้ Lubricant เล็กน้อยในแต่ละครั้ง"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/furnace_asbl",
+      "text": "Furnace ก็คือ... เตาเผานั่นแหละ ช้าเท่า Furnace ปกติ แต่ใช้เชื้อเพลิงน้อยกว่า 10 เท่าเพราะ Steam มีประสิทธิภาพมาก"
+    },
+    {
+      "type": "text",
+      "text": "เครื่องจักรไอน้ำรับวัตถุดิบจากทุกด้านได้ ไม่ว่าจะเป็นไอเทม Steam หรือของเหลวอื่น$(br2)คลิกรูปกุญแจในหน้าจอเพื่อล็อกช่อง ช่องที่ล็อกจะรับไอเทมหรือของเหลวเพียงชนิดเดียว$(br2)ทุกเครื่องมีด้านส่งออก และเปิดส่งออกอัตโนมัติได้ในหน้าจอ แน่นอนว่า Hopper ท่อ และระบบอัตโนมัติอื่นดึงผลผลิตจากทุกด้านได้ ลดจำนวนไอเทมสูงสุดในช่องได้ด้วยล้อเมาส์"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/wrench",
+      "text": "ใช้ Wrench คลิกขวาเพื่อหมุนเครื่องจักร หมุนด้านส่งออกได้โดยย่อตัวขณะ Shift คลิก$(br2)การทุบเครื่องจักรด้วย Wrench จะไม่ทำให้เครื่องดรอป ต้องใช้ Pickaxe!"
+    }
+  ],
+  "sortnum": 3
+}

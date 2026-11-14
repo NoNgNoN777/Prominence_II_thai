@@ -1,0 +1,18 @@
+{
+  "name": "Energizer",
+  "icon": "ad_astra:energizer",
+  "sortnum": 5,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Energizer",
+      "item": "ad_astra:energizer",
+      "text": "Energizer เป็นเครื่องที่จ่ายพลังงานให้ไอเทมและเก็บพลังงานได้มาก หากต้องการชาร์จไอเทม ให้จ่ายไฟเข้าเครื่อง แล้วถือไอเทมนั้นคลิกขวาที่ Energizer เครื่องเก็บพลังงานได้ 2 ล้านหน่วย จึงจ่ายไฟให้เครื่องจักรได้นานมาก และยังเก็บพลังงานไว้แม้ทุบบล็อกแล้ว"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:energizer"
+    }
+  ]
+}

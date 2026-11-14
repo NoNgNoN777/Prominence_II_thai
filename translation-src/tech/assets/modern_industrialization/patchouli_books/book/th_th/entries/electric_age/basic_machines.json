@@ -1,0 +1,36 @@
+{
+  "name": "เครื่องจักรไฟฟ้า",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:assembler",
+  "pages": [
+    {
+      "type": "text",
+      "text": "เครื่องจักรไฟฟ้าทำงานเหมือนเครื่องจักรไอน้ำ แต่ใช้ไฟฟ้าแทน Steam และค่อย ๆ โอเวอร์คล็อกสูตรได้สูงสุด 32 EU/t$(br2)ใช้ REI ดูสูตรของเครื่องจักรรุ่นไฟฟ้าที่คุณคุ้นเคยอยู่แล้วได้"
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:lubricant_bucket",
+      "text": "Lubricant เป็นของเหลวที่ได้จากการผสม Creosote กับ Redstone ใช้ภาชนะที่บรรจุ Lubricant เช่น Lubricant Bucket คลิกขวาที่เครื่องจักรไฟฟ้าเพื่อโอเวอร์คล็อกด้วยตนเอง$(br2)Lubricant ทุก 25 mb จะเพิ่มประสิทธิภาพการโอเวอร์คล็อกให้เครื่อง 1 ติ๊ก"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/configurable_chest_asbl",
+      "text": "Configurable Chest ไม่ใช่เครื่องจักร แต่คราฟต์ได้เมื่อคุณมี Analog Circuit!$(br2)มีช่องตั้งค่าได้ 27 ช่อง พร้อมระบบดึงออกอัตโนมัติ! มีประโยชน์มากสำหรับระบบอัตโนมัติ!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/polarizer_asbl",
+      "text": "Polarizer ใช้ทำให้วัสดุมีขั้ว แม้ตอนนี้ยังมีสูตรไม่มาก แต่ก็ใช้ผลิต Motor แบบอัตโนมัติได้แล้ว!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/assembler_asbl",
+      "text": "เครื่องแรกที่คุณน่าจะอยากสร้างหลาย ๆ ตัว! Assembler ช่วยผลิตเกือบทุกสูตรแบบอัตโนมัติ โดยทำได้สูงสุด 3 สูตรต่อเครื่องหากใช้การล็อกช่อง"
+    },
+    {
+      "type": "text",
+      "text": "แนะนำอย่างยิ่งให้ใช้ Assembler ผลิต Machine Hull, Analog Circuit, Motor, Piston, Robot Arm และ Conveyor Belt แบบอัตโนมัติโดยเร็ว จะช่วยให้การคราฟต์เครื่องจักรไฟฟ้าแทบไม่ต้องลงแรงอีก!"
+    }
+  ],
+  "sortnum": 105
+}

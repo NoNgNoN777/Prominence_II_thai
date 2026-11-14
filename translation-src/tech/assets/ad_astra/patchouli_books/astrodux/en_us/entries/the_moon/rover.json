@@ -1,0 +1,29 @@
+{
+  "name": "Rover",
+  "icon": "ad_astra:tier_1_rover",
+  "sortnum": 5,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Rover",
+      "item": "ad_astra:tier_1_rover",
+      "text": "Rover เป็นยานภาคพื้นดินที่ขับบนภูมิประเทศขรุขระของดวงจันทร์และดาวเคราะห์ได้ มีความเร็วสูงมาก ช่องเก็บของรองรับไอเทม 16 ชิ้น และมีสองที่นั่งให้โดยสารหลายคน ขับชนม็อบเพื่อสร้างความเสียหายรุนแรงได้ด้วย หากต้องการใช้ ให้เติม Fuel (Shift+คลิก แล้วใส่ Fuel Bucket ในช่องขาเข้าด้านซ้าย)"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "ad_astra:tier_1_rover",
+      "scale": 0.36
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "สูตร Rover",
+      "recipe": "ad_astra:tier_1_rover"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Radio",
+      "text": "Rover มี Radio ในตัวสำหรับเล่นสถานีวิทยุจริงจากสตรีมอินเทอร์เน็ต ใช้งานได้โดยกดที่วิทยุบนรถ หรือกด ($(k:ad_astra.open_radio)) หากมีผู้เล่นหลายคนอยู่บน Rover ทุกคนจะได้ยินสถานีเดียวกัน"
+    }
+  ]
+}

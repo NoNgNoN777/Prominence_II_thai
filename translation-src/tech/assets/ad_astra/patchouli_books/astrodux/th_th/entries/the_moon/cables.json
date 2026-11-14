@@ -1,0 +1,32 @@
+{
+  "name": "สายไฟ",
+  "icon": "ad_astra:desh_cable",
+  "sortnum": 6,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "สายไฟ",
+      "item": "ad_astra:desh_cable",
+      "text": "Cable ใช้ถ่ายโอนพลังงานระยะไกล มีสองชนิดคือ Steel และ Desh โดย Desh มีอัตราถ่ายโอนสูงกว่า ใช้ Wrench ตั้งค่าให้สายต่อออกไปตามทิศทางต่าง ๆ หรือตัดการเชื่อมกับจุดในเครือข่ายได้"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:steel_cable",
+      "recipe2": "ad_astra:desh_cable"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:wrench"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "ท่อร้อยสายไฟ",
+      "text": "Cable ไม่ใช่บล็อกทึบ จึงปิดผนึกโครงสร้างไม่ได้ ทำให้ Oxygen Distributor และ Gravity Normalizer ไม่ทำงาน ส่วน Cable Duct เป็นบล็อกเต็มที่ทำงานเหมือนสายไฟพร้อมป้องกันการรั่ว"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:cable_duct"
+    }
+  ]
+}

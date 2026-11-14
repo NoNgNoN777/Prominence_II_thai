@@ -1,0 +1,17 @@
+{
+  "name": "น้ำไม่จำกัด?",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_water_pump",
+  "pages": [
+    {
+      "type": "text",
+      "text": "คุณอาจสงสัยว่ามีวิธีเติมน้ำใน Boiler อัตโนมัติไหม? มีสิ! นั่นคือหน้าที่ Water Pump ล้อมรอบแนวนอนด้วยบล็อกน้ำ แล้วมันจะเริ่มผลิตน้ำโดยใช้ 1 EU/t$(br)จะส่งน้ำไปยังเครื่องจักรที่อยู่ด้านส่งออกโดยอัตโนมัติ"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/water_pump_asbl",
+      "text": "Bronze Water Pump ผลิตน้ำ 1/8 ถังต่อแหล่งน้ำข้างเคียงทุก 5 วินาที สูงสุด 1 ถัง / 5 วินาที"
+    }
+  ],
+  "sortnum": 8
+}

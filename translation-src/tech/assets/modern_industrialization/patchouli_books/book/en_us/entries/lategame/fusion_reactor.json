@@ -1,0 +1,18 @@
+{
+  "name": "ฟิวววววชัน",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:fusion_reactor",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/fusion_reactor_asbl",
+      "text": "Fusion Reactor คือสุดยอดแหล่งพลังงาน! รวม Deuterium, Tritium และ/หรือ Helium-3 ให้เป็น Helium Plasma เชื้อเพลิงที่ทรงพลังที่สุดในเกม! แต่ต้องใช้พลังงานจำนวนมากเพื่อเริ่มปฏิกิริยา"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/plasma_turbine_asbl",
+      "text": "Plasma Turbine เปลี่ยน Helium Plasma เป็น EU ในอัตรา 100 kEU ต่อ millibucket ผลิตได้สูงสุดประมาณ 1 MEU/t"
+    }
+  ],
+  "sortnum": 302
+}

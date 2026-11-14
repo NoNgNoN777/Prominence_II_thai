@@ -1,0 +1,17 @@
+{
+  "name": "GraviChestPlate",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:gravichestplate",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:gravichestplate",
+      "text": "GraviChestPlate ใช้เทคโนโลยีตัวนำยิ่งยวดขั้นสูงกลับทิศสนามแรงโน้มถ่วงรอบผู้สวมใส่$(br2)ใช้ EU และชาร์จได้โดยคลิกขวาที่บล็อกซึ่งจ่ายพลังงานออกได้"
+    },
+    {
+      "type": "text",
+      "text": "เทคโนโลยี GSP ปัจจุบันช่วยให้บินและป้องกันความเสียหายจากการตก แต่ไม่ป้องกันความเสียหายชนิดอื่น$(br2)วิศวกร Modern Industrialization กำลังหาทางแก้ แต่การวิจัยและพัฒนาใช้เวลานานกว่าคาด"
+    }
+  ],
+  "sortnum": 300
+}

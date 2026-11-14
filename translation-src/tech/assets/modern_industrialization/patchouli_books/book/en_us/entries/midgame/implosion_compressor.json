@@ -1,0 +1,19 @@
+{
+  "name": "Implosion Compressor!",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:implosion_compressor",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "อัญมณีสีฟ้าที่คุ้นเคย",
+      "item": "minecraft:diamond",
+      "text": "Implosion Compressor ใช้ Industrial TNT อัด Dust และ Ingot ของวัสดุที่ทนทานที่สุด ได้แก่ Tungsten, Blastproof Alloy และ Beryllium ซึ่งสำคัญมากต่อนิวเคลียร์ฟิชชัน รวมถึง Diamond ในที่สุด!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/implosion_compressor_asbl",
+      "text": "หวังว่าคุณคุ้นเคยกับการดูทุกสูตรใน REI แล้ว จึงน่าจะพบได้ง่ายว่า Compressor ผลิต Blastproof Mixed Ingot และ Tungsten Nugget ได้... อย่างน้อยก็จนกว่าจะมี Implosion Compressor เครื่องแรก!"
+    }
+  ],
+  "sortnum": 205
+}

@@ -1,0 +1,17 @@
+{
+  "name": "การตั้งค่าท่อขั้นสูง",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:config_card",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/config_card",
+      "text": "Config Card ใช้พรางรูปลักษณ์ท่อและคัดลอกการตั้งค่า Item Pipe ได้"
+    },
+    {
+      "type": "text",
+      "text": "เมื่อถือการ์ดไว้ในมือรอง การตั้งค่าจะถูกใช้กับ Item Pipe ทุกเส้นที่คุณวางโดยอัตโนมัติ"
+    }
+  ],
+  "sortnum": 102
+}

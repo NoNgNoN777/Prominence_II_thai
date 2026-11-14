@@ -1,0 +1,17 @@
+{
+  "name": "Portable Storage Unit",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:portable_storage_unit",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/battery/portable_storage_unit_asbl",
+      "text": "คราฟต์ Portable Storage Unit (PSU) เพื่อพกพาพลังงานในช่องเก็บของ ชาร์จหรือคายพลังงานได้โดยคลิกขวาที่หน่วยเก็บพลังงานใดก็ได้"
+    },
+    {
+      "type": "text",
+      "text": "เริ่มต้นจะไม่มีความจุพลังงาน ต้องใส่ Battery โดยใช้แบตเตอรี่คลิกขวาที่ PSU หรือใช้ PSU คลิกขวาที่แบตเตอรี่ ระดับแบตเตอรี่ยิ่งสูงยิ่งเพิ่มความจุได้มาก นำแบตเตอรี่คืนได้โดยคลิกขวาที่ช่องว่าง แต่พลังงานที่เกินความจุจะสูญหาย"
+    }
+  ],
+  "sortnum": 112
+}

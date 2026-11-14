@@ -1,0 +1,17 @@
+{
+  "name": "Steel ชุดแรกของคุณ",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:steel_ingot",
+  "pages": [
+    {
+      "type": "text",
+      "text": "บด Coke ให้ได้ Coke Dust แล้วผสมกับ Iron เป็น Uncooked Steel Dust ใช้ Mixer จะให้อัตราที่ดีกว่า จากนั้นใช้ Steam Blast Furnace เปลี่ยนเป็น Steel$(br2)คราฟต์ตัวควบคุม Fire Clay Bricks 29 บล็อก และ Hatch สามชนิดเหมือน Coke Oven"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/fireclay/steam_blast_furnace",
+      "text": "โครงสร้าง Blast Furnace เหมือน Coke Oven แต่เปลี่ยน Bricks เป็น Fire Clay Bricks และเพิ่มชั้นกลวงด้านบนอีกหนึ่งชั้น"
+    }
+  ],
+  "sortnum": 10
+}

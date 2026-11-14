@@ -1,0 +1,38 @@
+{
+  "name": "ระดับควอนตัม",
+  "category": "modern_industrialization:endgame",
+  "icon": "modern_industrialization:quantum_upgrade",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:singularity",
+      "text": "จะเกิดอะไรขึ้นเมื่อนักวิทยาศาสตร์พยายามสร้างหลุมดำขนาดจิ๋วในห้องทดลอง?$(br2)คำตอบคือ Singularity: ก้อนสสารพลังมหาศาลที่ประยุกต์ใช้ทางฟิสิกส์ควอนตัมได้อย่างมีประโยชน์ เมื่อมีวัสดุรักษาเสถียรภาพที่เหมาะสม"
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_upgrade",
+      "text": "Quantum Upgrade คืออัปเกรดเครื่องจักรที่ทรงพลังที่สุด ลองดูด้วยตัวคุณเอง"
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_sword",
+      "text": "Quantum Sword ใช้พลังแท้จริงของสมการ Schrödinger สลายศัตรู (หรือเพื่อน!) ที่คุณโจมตีในทันที"
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_chestplate",
+      "text": "ด้วยผลของแรงโน้มถ่วงจากหลักความไม่แน่นอนของ Heisenberg ชุด Quantum Armor ครบชุดทำให้ไม่รับความเสียหายใด ๆ และบินแบบโหมดสร้างสรรค์ได้ เกราะแต่ละชิ้นเพิ่มโอกาสลบล้างความเสียหายที่ได้รับ 25% "
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_barrel",
+      "text": "Quantum Barrel คือถังเก็บไอเทมระดับสูงสุด: เก็บไอเทมชนิดเดียวได้ 2,147,483,647 กอง!"
+    },
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:quantum_tank",
+      "text": "Quantum Tank คือถังเก็บของเหลวระดับสูงสุด: เก็บของเหลวชนิดเดียวได้ 2,147,483,647 ถัง!"
+    }
+  ],
+  "sortnum": 301
+}

@@ -1,0 +1,33 @@
+{
+  "name": "ความดันสูง!",
+  "category": "modern_industrialization:midgame",
+  "icon": "modern_industrialization:pressurizer",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/pressurizer_asbl",
+      "text": "Pressurizer เป็นโครงสร้างหลายบล็อกใหม่ที่ทำจาก Titanium เปลี่ยน Water เป็น HP (ความดันสูง) Water และ Steam เป็น HP Steam รวมทั้งเปลี่ยนกลับได้"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/high_pressure_large_steam_boiler_asbl",
+      "text": "เมื่อมี HP Water แล้ว ใช้ High Pressure Large Steam Boiler ผลิต HP Steam ได้$(br2)HP Steam หนึ่ง millibucket มีค่าเท่ากับ Steam ปกติ 8 mb หรือ 8 EU"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_steam_turbine_asbl",
+      "text": "Large Steam Turbine แปลงได้ทั้ง Steam ปกติ (1 mb = 1 EU) และ HP Steam (1 mb = 8 EU) เป็น EU และผลิตได้สูงสุด 16384 EU/t! $(l)แต่จะไม่คืนทั้ง Water ปกติหรือ HP Water$()"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/heat_exchanger_asbl",
+      "text": "การอัด Water เป็น HP Water ใช้พลังงานมาก แต่ Turbine จะไม่คืน HP Water นั้น! ใช้ Heat Exchanger กู้ HP Water กลับมาใช้รอบต่อไปได้"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/hv_steam_turbine_asbl",
+      "text": "อีกทางเลือกสำหรับระบบขนาดเล็กคือ HV Steam Turbine เช่นเดียวกับเครื่องผลิต HV อื่น ผลิตได้ 512 EU/t และรับเฉพาะ Steam ปกติ"
+    }
+  ],
+  "sortnum": 202
+}

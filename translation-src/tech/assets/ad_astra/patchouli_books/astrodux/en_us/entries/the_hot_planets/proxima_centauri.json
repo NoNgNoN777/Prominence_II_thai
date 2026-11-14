@@ -1,0 +1,17 @@
+{
+  "name": "Proxima Centauri",
+  "icon": "ad_astra:/textures/painting/alpha_centauri.png",
+  "sortnum": 1,
+  "category": "ad_astra:the_hot_planets",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Proxima Centauri",
+      "text": "เมื่อหา Calorite ได้พอคราฟต์ Tier 4 Rocket คุณจะออกจากระบบดาวนี้ไปยังระบบใหม่ได้ ดาวเคราะห์ดวงแรกใน Proxima Centauri ที่จะไปคือ Glacio ซึ่งหนาวจัด แต่มีออกซิเจน จึงเอาตัวรอดที่นั่นได้โดยไม่ต้องสวม Space Suit"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "นี่คือจุดสิ้นสุดความก้าวหน้าของ Ad Astra ในตอนนี้ คู่มือนี้จะขยายเมื่อมีเนื้อหาเพิ่ม ขอบคุณที่เล่น Ad Astra!"
+    }
+  ]
+}

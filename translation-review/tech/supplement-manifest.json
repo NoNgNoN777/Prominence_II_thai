@@ -1,0 +1,1112 @@
+[
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/categories/surviving_mars.json",
+    "chars": 212
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/categories/the_first_launch.json",
+    "chars": 172
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/categories/the_hot_planets.json",
+    "chars": 219
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/categories/the_moon.json",
+    "chars": 194
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/better_fuel.json",
+    "chars": 1422
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/detection.json",
+    "chars": 664
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/energizer.json",
+    "chars": 659
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/flags.json",
+    "chars": 626
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/fluid_pipes.json",
+    "chars": 1134
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/industrial_lamps.json",
+    "chars": 705
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/netherite_space_suit.json",
+    "chars": 900
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/sliding_doors.json",
+    "chars": 909
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/trophies.json",
+    "chars": 860
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/surviving_mars/venus_and_mercury.json",
+    "chars": 773
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/creating_plates.json",
+    "chars": 514
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/fuel.json",
+    "chars": 1328
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/generating_energy.json",
+    "chars": 626
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/making_steel.json",
+    "chars": 966
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/oxygen.json",
+    "chars": 1353
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/portable_resources.json",
+    "chars": 1308
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/preparing_to_launch.json",
+    "chars": 883
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/radio.json",
+    "chars": 722
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/the_moon.json",
+    "chars": 1333
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/your_first_rocket.json",
+    "chars": 1280
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_hot_planets/jet_suit.json",
+    "chars": 1229
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_hot_planets/proxima_centauri.json",
+    "chars": 764
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_moon/cables.json",
+    "chars": 1113
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_moon/gravity_normalizer.json",
+    "chars": 728
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_moon/lunarians.json",
+    "chars": 1465
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_moon/mars.json",
+    "chars": 946
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_moon/oxygen_distributor.json",
+    "chars": 2959
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_moon/rover.json",
+    "chars": 1169
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_moon/solar_panel.json",
+    "chars": 842
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_moon/space_station.json",
+    "chars": 2280
+  },
+  {
+    "jar": "ad_astra-fabric-1.20.1-1.15.20.jar",
+    "path": "assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_moon/ti_69.json",
+    "chars": 478
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/ae2-mechanics-index.md",
+    "chars": 89
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/autocrafting.md",
+    "chars": 13014
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/bytes-and-types.md",
+    "chars": 4852
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/cable-subparts.md",
+    "chars": 635
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/certus-growth.md",
+    "chars": 2307
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/channels.md",
+    "chars": 15579
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/devices.md",
+    "chars": 539
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/energy.md",
+    "chars": 3829
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/import-export-storage.md",
+    "chars": 3956
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/me-network-connections.md",
+    "chars": 5454
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/meteorites.md",
+    "chars": 856
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/p2p-tunnels.md",
+    "chars": 184
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/quantum-bridge.md",
+    "chars": 215
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/spatial-io.md",
+    "chars": 5404
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/ae2-mechanics/subnetworks.md",
+    "chars": 3020
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/advanced-certus-farm.md",
+    "chars": 7084
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/amethyst-farm.md",
+    "chars": 4325
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/cell-dumper-filler.md",
+    "chars": 3017
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/charger-automation.md",
+    "chars": 2497
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/example-setups-index.md",
+    "chars": 90
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/furnace-automation.md",
+    "chars": 3751
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/interface-autostocking.md",
+    "chars": 2298
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/level-emitter-autostocking.md",
+    "chars": 2730
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/main-network.md",
+    "chars": 2382
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/ore-fortuner.md",
+    "chars": 2673
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/pipe-subnet.md",
+    "chars": 8724
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/processor-automation.md",
+    "chars": 9113
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/regulated-cobble-gen.md",
+    "chars": 3913
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/semiauto-certus-farm.md",
+    "chars": 6384
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/simple-certus-farm.md",
+    "chars": 3140
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/specialized-local-storage.md",
+    "chars": 3768
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/example-setups/throw-in-water-automation.md",
+    "chars": 4279
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/getting-started.md",
+    "chars": 9364
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/index.md",
+    "chars": 1485
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/annihilation_plane.md",
+    "chars": 2451
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/budding_certus.md",
+    "chars": 2165
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/cable_anchor.md",
+    "chars": 780
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/cables.md",
+    "chars": 7692
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/cell_workbench.md",
+    "chars": 1083
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/certus_quartz_crystal.md",
+    "chars": 750
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/certus_quartz_crystal_charged.md",
+    "chars": 647
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/certus_quartz_dust.md",
+    "chars": 512
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/charged_staff.md",
+    "chars": 505
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/charger.md",
+    "chars": 1451
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/chest.md",
+    "chars": 3608
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/color_applicator.md",
+    "chars": 1514
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/condenser.md",
+    "chars": 1525
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/controller.md",
+    "chars": 1932
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/crafting_cpu_multiblock.md",
+    "chars": 3971
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/crank.md",
+    "chars": 555
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/crystal_resonance_generator.md",
+    "chars": 714
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/cutting_knives.md",
+    "chars": 825
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/decorative_certus.md",
+    "chars": 2190
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/decorative_fluix.md",
+    "chars": 661
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/decorative_sky_stone.md",
+    "chars": 1928
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/drive.md",
+    "chars": 2262
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/ender_dust.md",
+    "chars": 494
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/energy_acceptor.md",
+    "chars": 1348
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/energy_cells.md",
+    "chars": 2125
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/entropy_manipulator.md",
+    "chars": 770
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/export_bus.md",
+    "chars": 2466
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/facades.md",
+    "chars": 1486
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/fluix_block.md",
+    "chars": 418
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/fluix_crystal.md",
+    "chars": 955
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/fluix_dust.md",
+    "chars": 492
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/fluix_pearl.md",
+    "chars": 415
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/fluix_tools.md",
+    "chars": 1093
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/fluix_upgrade_smithing_template.md",
+    "chars": 510
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/formation_annihilation_core.md",
+    "chars": 793
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/formation_plane.md",
+    "chars": 2327
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/growth_accelerator.md",
+    "chars": 1098
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/guide.md",
+    "chars": 642
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/illuminated_panels.md",
+    "chars": 766
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/import_bus.md",
+    "chars": 2218
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/inscriber.md",
+    "chars": 3329
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/interface.md",
+    "chars": 6567
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/io_port.md",
+    "chars": 1270
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/items-blocks-machines-index.md",
+    "chars": 510
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/level_emitter.md",
+    "chars": 3191
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/matter_ball.md",
+    "chars": 482
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/matter_cannon.md",
+    "chars": 1655
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/memory_card.md",
+    "chars": 655
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/meteorite_compass.md",
+    "chars": 538
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/molecular_assembler.md",
+    "chars": 1963
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/monitors.md",
+    "chars": 1925
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/mysterious_cube.md",
+    "chars": 621
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/network_tool.md",
+    "chars": 1699
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/p2p_tunnels.md",
+    "chars": 5809
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/paintballs.md",
+    "chars": 2772
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/pattern_provider.md",
+    "chars": 8339
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/patterns.md",
+    "chars": 3386
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/presses.md",
+    "chars": 1771
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/processors.md",
+    "chars": 1717
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/quantum_bridge.md",
+    "chars": 2165
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/quartz_block.md",
+    "chars": 511
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/quartz_fiber.md",
+    "chars": 943
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/quartz_fixture.md",
+    "chars": 613
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/quartz_glass.md",
+    "chars": 553
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/quartz_tools.md",
+    "chars": 1717
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/singularities.md",
+    "chars": 1306
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/sky_dust.md",
+    "chars": 607
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/sky_stone.md",
+    "chars": 746
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/sky_stone_tank.md",
+    "chars": 433
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/spatial_anchor.md",
+    "chars": 1510
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/spatial_cells.md",
+    "chars": 1930
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/spatial_io_port.md",
+    "chars": 614
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/spatial_pylon.md",
+    "chars": 609
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/storage_bus.md",
+    "chars": 3436
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/storage_cells.md",
+    "chars": 7756
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/terminals.md",
+    "chars": 8635
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/tiny_tnt.md",
+    "chars": 571
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/toggle_bus.md",
+    "chars": 1074
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/upgrade_cards.md",
+    "chars": 6256
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/vibration_chamber.md",
+    "chars": 1785
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/view_cell.md",
+    "chars": 822
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/wireless_access_point.md",
+    "chars": 1046
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/wireless_receiver.md",
+    "chars": 447
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/wireless_terminals.md",
+    "chars": 2310
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/items-blocks-machines/wrench.md",
+    "chars": 874
+  },
+  {
+    "jar": "appliedenergistics2-fabric-15.4.11.jar",
+    "path": "assets/ae2/ae2guide/tips-and-tricks.md",
+    "chars": 2374
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/active_formation_plane.md",
+    "chars": 681
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/caner.md",
+    "chars": 1652
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/crystal_fixer.md",
+    "chars": 806
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/epp_intro-index.md",
+    "chars": 410
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_charger.md",
+    "chars": 417
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_drive.md",
+    "chars": 418
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_inscriber.md",
+    "chars": 666
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_interface.md",
+    "chars": 654
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_io_bus.md",
+    "chars": 859
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_io_port.md",
+    "chars": 485
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_modecular_assembler.md",
+    "chars": 769
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_pattern_provider.md",
+    "chars": 852
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/extended_pattern_terminal.md",
+    "chars": 1381
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/infinity_cell.md",
+    "chars": 515
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/ingredient_buffer.md",
+    "chars": 398
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/mod_export_bus.md",
+    "chars": 483
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/mod_storage_bus.md",
+    "chars": 485
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/packing_tape.md",
+    "chars": 2568
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/pattern_modifier.md",
+    "chars": 1564
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/precise_export_bus.md",
+    "chars": 900
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/precise_storage_bus.md",
+    "chars": 587
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/tag_export_bus.md",
+    "chars": 561
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/tag_storage_bus.md",
+    "chars": 654
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/threshold_export_bus.md",
+    "chars": 835
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/threshold_level_emitter.md",
+    "chars": 1022
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/upgrade_items.md",
+    "chars": 4002
+  },
+  {
+    "jar": "ExtendedAE-1.20-1.0.2-fabric.jar",
+    "path": "assets/extendedae/ae2guide/epp_intro/wireless_connector.md",
+    "chars": 1983
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/categories/electric_age.json",
+    "chars": 283
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/categories/endgame.json",
+    "chars": 230
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/categories/introduction.json",
+    "chars": 189
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/categories/midgame.json",
+    "chars": 422
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/categories/steam_age.json",
+    "chars": 319
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/advanced_machines.json",
+    "chars": 1984
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/basic_machines.json",
+    "chars": 2021
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/config_card.json",
+    "chars": 545
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/ebf.json",
+    "chars": 1470
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/electric_quarry.json",
+    "chars": 770
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/electricity.json",
+    "chars": 2240
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/jetpack.json",
+    "chars": 1123
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/large_steam_boiler.json",
+    "chars": 1737
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/large_tank.json",
+    "chars": 1235
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/making_cables.json",
+    "chars": 742
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/oil_processing.json",
+    "chars": 1667
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/electric_age/portable_storage_unit.json",
+    "chars": 921
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/introduction/introduction.json",
+    "chars": 1667
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/lategame/fusion_reactor.json",
+    "chars": 811
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/lategame/gravichestplate.json",
+    "chars": 791
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/lategame/quantum_tier.json",
+    "chars": 1751
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/lategame/replicator.json",
+    "chars": 780
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/midgame/diesel.json",
+    "chars": 866
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/midgame/fluid_transfer.json",
+    "chars": 939
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/midgame/high_pressure.json",
+    "chars": 1758
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/midgame/implosion_compressor.json",
+    "chars": 933
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/midgame/nuclear_reactor.json",
+    "chars": 5656
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/midgame/stainless_steel.json",
+    "chars": 1101
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/midgame/upgrades.json",
+    "chars": 938
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/bronze_boiler.json",
+    "chars": 1464
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/coke_oven.json",
+    "chars": 2523
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/forge_hammer.json",
+    "chars": 1617
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/making_bronze.json",
+    "chars": 943
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/pipes.json",
+    "chars": 2211
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/quarry.json",
+    "chars": 991
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/steam_machines.json",
+    "chars": 2833
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/steel.json",
+    "chars": 813
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/steel_machines.json",
+    "chars": 2301
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/tanks.json",
+    "chars": 1390
+  },
+  {
+    "jar": "Modern-Industrialization-1.8.6.jar",
+    "path": "assets/modern_industrialization/patchouli_books/book/en_us/entries/steam_age/water_pump.json",
+    "chars": 827
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "ทรัพยากรไร้ขีดจำกัด?",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:steam_quarry",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "modern_industrialization:steam_quarry",
+      "title": "Steam Quarry",
+      "text": "Steam Quarry เป็นเครื่องจักรไอน้ำหลายบล็อกที่ใช้ Bronze Drill เจาะลึกกว่า Bedrock แล้วให้แร่กลับมาตามที่แสดงใน REI$(br2)แนะนำให้มี SBF หลายเครื่องทำงานก่อนเริ่มสร้าง เพราะต้องใช้ $(l)Steel จำนวนมาก$()"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:quarry/drill/bronze_drill_asbl",
+      "text": "หากนี่เป็นโครงสร้างหลายบล็อกแรกของคุณ อย่าลืมอ่าน $(l:modern_industrialization:steam_age/coke_oven)หัวข้อ Coke Oven$()! ซึ่งอธิบายวิธีทำงาน การตรวจโครงสร้าง และการใช้ Hatch"
+    }
+  ],
+  "sortnum": 12
+}

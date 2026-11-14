@@ -1,0 +1,30 @@
+{
+  "name": "เชื้อเพลิง",
+  "icon": "ad_astra:fuel_bucket",
+  "sortnum": 4,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "แม้วางจรวดแล้ว คุณยังบินไม่ได้ ต้องเติมเชื้อเพลิงให้จรวดก่อน"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "การหาเชื้อเพลิง",
+      "item": "ad_astra:oil_bucket",
+      "text": "พบ Oil ปริมาณมากพุ่งขึ้นเหนือผิวมหาสมุทร เก็บให้ได้มากที่สุด เพราะ Oil เกิดทดแทนไม่ได้ และการปล่อยจรวดแต่ละครั้งต้องใช้ปริมาณมาก"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "การหาเชื้อเพลิง",
+      "item": "ad_astra:fuel_bucket",
+      "text": "เมื่อเก็บ Oil ได้พอ (อย่างน้อยหก Bucket สำหรับไปกลับ) ต้องกลั่นเป็น Fuel โดยคราฟต์ Fuel Refinery จ่ายพลังงาน แล้ววาง Oil ในช่องด้านซ้าย เครื่องจะกลั่นเป็น Fuel"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Fuel Refinery",
+      "recipe": "ad_astra:fuel_refinery",
+      "text": "กด Shift+คลิกที่จรวดเพื่อเปิดช่องเก็บของ จากนั้นใส่ Fuel สาม Bucket ในช่องขาเข้า เก็บอีกสาม Bucket ในช่องเก็บของจรวดสำหรับขากลับ"
+    }
+  ]
+}

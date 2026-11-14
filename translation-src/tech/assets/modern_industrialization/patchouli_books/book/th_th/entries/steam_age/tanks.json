@@ -1,0 +1,26 @@
+{
+  "name": "ถังของเหลวและถังไอเทม",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_tank",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bronze Tank แต่ละใบเก็บของเหลวได้ 4 ถัง ใช้โต้ตอบกับเครื่องจักรและวางในโลกได้$(br2)Bronze Barrel ใช้เก็บและขนย้ายไอเทมชนิดเดียวได้ 32 กอง อ่านหน้าถัดไปเพื่อดูรายละเอียด!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze/craft/tank",
+      "text": "เมื่อวางในโลก ใช้ Bucket หรือ Tank อื่นคลิกขวาเพื่อถ่ายของเหลวได้$(br2)และหากบรรจุสิ่งเดียวกัน ก็วางซ้อนกองในช่องเก็บของได้ สะดวกจริง ๆ!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze/craft/barrel",
+      "text": "คลิกซ้ายเพื่อใส่ไอเทมหนึ่งกองใน Barrel ที่วางไว้ (กด Shift เพื่อใส่ให้มากที่สุด)$(br2)คลิกขวาเพื่อนำออกหนึ่งกอง (กด Shift เพื่อนำออกเพียง 1 ชิ้น)"
+    },
+    {
+      "type": "text",
+      "text": "เมื่อทุบ Barrel ของภายในจะยังอยู่ และได้รับเป็นไอเทมที่โต้ตอบได้$(br2)ใช้ไอเทมคลิกซ้ายที่ไอเทม Barrel เพื่อใส่ลงไป$(br2)ใช้ไอเทม Barrel คลิกซ้ายที่ช่องว่างเพื่อนำไอเทมบางส่วนออก"
+    }
+  ],
+  "sortnum": 7
+}

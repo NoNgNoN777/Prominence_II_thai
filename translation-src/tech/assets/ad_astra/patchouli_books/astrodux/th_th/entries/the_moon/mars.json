@@ -1,0 +1,19 @@
+{
+  "name": "Mars",
+  "icon": "ad_astra:/textures/environment/mars.png",
+  "sortnum": 8,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Mars",
+      "text": "เมื่อสำรวจ Moon และใช้ Desh แล้ว คุณคงอยากไปไกลกว่านั้นสู่ดาวเคราะห์สีแดง การสร้าง Tier 2 Rocket ที่เดินทางไป Mars ได้คล้ายกับ Tier 1 Rocket แต่ใช้วัสดุ Desh แทน Steel สร้างชิ้นส่วน ประกอบจรวดใน NASA Workbench เติมเชื้อเพลิง แล้วออกเดินทางไป Mars ได้เลย!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Ostrum",
+      "item": "ad_astra:ostrum_ingot",
+      "text": "Ostrum คือวัสดุถัดไปที่ต้องตามหาบนดาวเคราะห์สีแดง ใช้คราฟต์ชุดเกราะอวกาศที่ทรงพลังกว่า สร้างเครื่องจักรพิเศษ และสร้างจรวดที่ทนความร้อนสูงเพื่อเดินทางไปดาวเคราะห์ร้อนได้"
+    }
+  ]
+}

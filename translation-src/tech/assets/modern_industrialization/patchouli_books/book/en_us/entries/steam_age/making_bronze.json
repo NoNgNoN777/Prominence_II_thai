@@ -1,0 +1,22 @@
+{
+  "name": "Bronze ชุดแรกของคุณ!",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_dust",
+  "pages": [
+    {
+      "type": "text",
+      "text": "เริ่มจากใช้ Forge Hammer ทุบ Copper Ingot กับ Tin Ingot (หรือ Nugget) ให้เป็น Copper Dust และ Tin Dust (หรือ Tiny Dust) แล้วผสมเป็น Bronze Dust (หรือ Tiny Dust) กระบวนการนี้มีประสิทธิภาพมากกว่าเมื่อใช้ $(l:modern_industrialization:steam_age/steam_machines)Mixer$()$(br2)จำไว้ว่า Tiny Dust 9 ชิ้นเท่ากับ Dust หนึ่งชิ้นเสมอ"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/bronze_dust",
+      "recipe2": "modern_industrialization:materials/bronze_tiny_dust"
+    },
+    {
+      "type": "smelting",
+      "recipe": "modern_industrialization:materials/bronze/smelting/dust_to_ingot_smelting",
+      "text": "เผา Bronze Dust เพื่อรับ Bronze Ingot"
+    }
+  ],
+  "sortnum": 1
+}

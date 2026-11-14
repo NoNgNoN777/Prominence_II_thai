@@ -1,0 +1,28 @@
+{
+  "name": "Jet Suit",
+  "icon": "ad_astra:jet_suit_helmet",
+  "sortnum": 0,
+  "category": "ad_astra:the_hot_planets",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Jet Suit",
+      "item": "ad_astra:jet_suit_helmet",
+      "text": "Jet Suit เป็นรุ่นอัปเกรดของ Netherite Space Suit ให้การป้องกันมากขึ้น เก็บออกซิเจนเพิ่ม และบินได้ แม้คราฟต์แพง แต่บินด้วยความเร็วสูงได้ จึงช่วยให้เดินทางสะดวก"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "มีการบินสองโหมด: บินขึ้น ($(k:jump)) และเร่งความเร็ว ($(k:jump) + $(k:sprint)) โหมดบินขึ้นทำให้ผู้สวมลอยขึ้น ส่วนโหมดเร่งความเร็วคล้าย Elytra ที่ถูกขับเคลื่อนด้วย Firework ตลอดเวลา Jet Suit ใช้พลังงานและต้องชาร์จก่อนบิน ชาร์จได้โดยถือชุดคลิกขวาที่ Energizer เปิด/ปิดชุดด้วยปุ่ม ($(k:ad_astra.toggle_suit_flight))"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:jet_suit_helmet",
+      "recipe2": "ad_astra:jet_suit"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:jet_suit_pants",
+      "recipe2": "ad_astra:jet_suit_boots"
+    }
+  ]
+}

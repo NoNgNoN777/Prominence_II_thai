@@ -1,0 +1,47 @@
+{
+  "name": "ชอบ Coke ไหม?",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:coke_oven",
+  "pages": [
+    {
+      "type": "text",
+      "text": "เมื่อใช้เครื่องจักร Bronze จนพอใจแล้ว เริ่มมุ่งสู่การผลิต Steel ได้ เป้าหมายคือ Quarry ซึ่งเป็นโครงสร้างหลายบล็อกที่ขุดแร่ให้คุณ!$(br2)ขั้นแรกคือผลิต Coke โดยให้ความร้อน Coal แบบไม่มีออกซิเจน จึงต้องสร้าง Coke Oven แบบหลายบล็อก"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/fireclay/coke_oven",
+      "text": "โครงสร้างแรกนี้ต้องใช้ Coke Oven แน่นอน รวมทั้ง Bricks 21 บล็อกและ $(thing)Hatch$() 3 ตัว: Item Input, Item Output และ Fluid Input"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/bronze/item_input_hatch",
+      "recipe2": "modern_industrialization:hatches/bronze/item_output_hatch"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:hatches/bronze/fluid_input_hatch",
+      "recipe2": "modern_industrialization:hatches/bronze/fluid_output_hatch"
+    },
+    {
+      "type": "text",
+      "text": "บล็อก Coke Oven ทำหน้าที่เป็น$(thing)ตัวควบคุม$() โครงสร้างหลายบล็อกทุกชนิดมีตัวควบคุม แต่โดยปกติคุณโต้ตอบกับมันโดยตรงไม่ได้ การรับเข้าและส่งออกทั้งหมดผ่าน Hatch ต้องมี Fluid Input เพราะ Coke Oven ใช้ Steam มี Item Input รับ Coal และขาออกสำหรับ Coke$(br2)หากลืม Hatch ตัวใดตัวหนึ่ง Coke Oven จะเริ่มทำงานไม่ได้!"
+    },
+    {
+      "type": "text",
+      "text": "$(l)ถือ Wrench เพื่อดูบล็อกที่ขาดและข้อผิดพลาด!$() ถือ Hatch เพื่อดูตำแหน่งที่วางได้ด้วย$(br2)โครงสร้างนี้ใช้ Bricks 21 บล็อก! REI บอกว่ารวม 24 บล็อก แต่มี Hatch 3 ตัว จึงเหลือ Bricks ที่ต้องใช้ 21 บล็อก!"
+    },
+    {
+      "type": "image",
+      "title": "Coke Oven!",
+      "images": [
+        "modern_industrialization:textures/guidebook/coke_oven.png"
+      ],
+      "text": "วาง Hatch ได้หลายแบบ นี่เป็นเพียงหนึ่งตัวอย่าง!"
+    },
+    {
+      "type": "text",
+      "text": "เมื่อ Coke Oven แสดง $(o)รูปร่างถูกต้อง$() เติม Steam ใน Fluid Input Hatch ใส่ Coal ใน Item Input Hatch ก็พร้อมใช้งาน!$(br2)Coke มีประโยชน์มากในการผลิต Steel และยังเป็นเชื้อเพลิงทรงพลัง เผาไหม้ได้นานกว่า Coal 4 เท่า!"
+    }
+  ],
+  "sortnum": 9
+}

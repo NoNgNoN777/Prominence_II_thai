@@ -1,0 +1,22 @@
+{
+  "name": "Large Tank",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:large_tank",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_tank_asbl",
+      "text": "Large Tank เป็นโครงสร้างหลายบล็อกสำหรับเก็บของเหลวจำนวนมาก เช่น Steam เก็บของเหลวได้ 64 ถังต่อทุกบล็อกในโครงสร้าง (รวมด้านข้าง)"
+    },
+    {
+      "type": "text",
+      "text": "Large Tank มีขนาดให้เลือกตามความจุที่ต้องการ เปิดแผงตั้งค่าขนาดได้ด้วยปุ่มในตัวควบคุม$(br2)เข้าถึงถังได้ผ่านท่อเท่านั้น โดยต่อกับตัวควบคุมหรือ Large Tank Hatch (ดูหน้าถัดไป)$(br2)อย่าทำลายตัวควบคุม ไม่เช่นนั้นของเหลวที่เก็บไว้จะสูญหายทั้งหมด!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_tank_hatch_asbl",
+      "text": "Large Tank Hatch ทำหน้าที่เป็นส่วนขยายของ Large Tank คลิกขวาเพื่อเปิดเมนู Large Tank และท่อที่เชื่อมต่อกับมันจะเข้าถึงที่เก็บของถังได้โดยตรง"
+    }
+  ],
+  "sortnum": 101
+}

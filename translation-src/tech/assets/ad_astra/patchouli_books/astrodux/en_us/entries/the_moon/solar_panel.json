@@ -1,0 +1,20 @@
+{
+  "name": "Solar Panel",
+  "icon": "ad_astra:solar_panel",
+  "sortnum": 1,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Solar Panel",
+      "item": "ad_astra:solar_panel",
+      "text": "Solar Panel เป็นรุ่นอัปเกรดของ Coal Generator ผลิตพลังงานต่อ tick ได้มากกว่าโดยไม่ต้องเติมเชื้อเพลิง ปริมาณที่ผลิตขึ้นอยู่กับระยะห่างจากดวงอาทิตย์ของดาวเคราะห์และหมอก ดังนั้นวางใกล้ดวงอาทิตย์จะมีประสิทธิภาพกว่า และผลิตพลังงานในวงโคจรได้มากกว่า เพราะไม่มีชั้นบรรยากาศบังแสง"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Solar Panel",
+      "text": "ตรวจหน้าจอเครื่องเพื่อดูปริมาณพลังงานที่ผลิตได้ในโลกปัจจุบัน",
+      "recipe": "ad_astra:solar_panel"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Venus และ Mercury",
+  "icon": "ad_astra:/textures/environment/venus.png",
+  "sortnum": 8,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Calorite",
+      "item": "ad_astra:calorite_ingot",
+      "text": "เมื่อมี Ostrum พอคราฟต์ Netherite Space Suit ครบชุดและชิ้นส่วนทั้งหมดของ Tier 3 Rocket แล้ว คุณเดินทางไป Venus และ Mercury ได้ โปรดทราบว่าหากไปดาวเหล่านี้โดยไม่มี Netherite Space Suit หรือการต้านไฟ คุณจะตายอย่างรวดเร็ว วัสดุชนิดต่อไปที่ต้องตามหาคือ Calorite"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Calorite ใช้คราฟต์จรวดขั้นสูงสุดที่เดินทางไปยังระบบดาวใหม่ได้"
+    }
+  ]
+}

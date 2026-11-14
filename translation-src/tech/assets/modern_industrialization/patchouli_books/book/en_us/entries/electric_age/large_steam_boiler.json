@@ -1,0 +1,31 @@
+{
+  "name": "Large Steam Boiler",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:large_steam_boiler",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/machine/large_steam_boiler_asbl",
+      "text": "Large Steam Boiler เป็นรุ่นอัปเกรดของ Bronze Boiler และ Steel Boiler ขนาดเล็ก ใช้เชื้อเพลิงเร็วกว่า Furnace 8 เท่า แต่ผลิต Steam ได้ 256 mb/t เมื่อร้อนเต็มที่"
+    },
+    {
+      "type": "text",
+      "text": "ต่างจากรุ่นบล็อกเดียว Large Steam Boiler จะสูญเสียความร้อนที่ไม่ได้ใช้ 80% ทำให้อัตราพลังงานที่ผลิตต่อเชื้อเพลิงลดลงอย่างมากเมื่อจ่ายออกต่ำกว่าค่าสูงสุด ซึ่งเกิดขึ้นหากไม่ได้ใช้งาน Boiler อย่างต่อเนื่องที่กำลังสูงสุด"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:electric_age/casing/bronze_plated_bricks_asbl",
+      "text": "บล็อกหลักที่ต้องใช้คือ Bronze Plated Bricks รวมทั้ง Bronze Pipe Machine Casing และ Heatproof Machine Casing"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/casing_pipe_asbl",
+      "recipe2": "modern_industrialization:electric_age/casing/heatproof_machine_casing_asbl"
+    },
+    {
+      "type": "text",
+      "text": "Large Steam Boiler ประกอบด้วย Heatproof Machine Casing หนึ่งชั้น และ Bronze Plated Bricks สามชั้น$(br2)ตัวควบคุมอยู่ชั้นที่สอง (ชั้นแรกของ Bronze Plated Bricks)$(br2)บล็อกตรงกลางสองบล็อกเป็น Bronze Pipe Machine Casing$(br2)Hatch ต้องวางที่ชั้นล่างสุด"
+    }
+  ],
+  "sortnum": 103
+}

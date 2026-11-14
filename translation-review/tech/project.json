@@ -1,0 +1,69 @@
+{
+  "instance": "D:\\minecraft\\Instances\\Prominence_ II Hasturian Era",
+  "pack_id": "prominence2",
+  "pack_name": "Prominence_II_Hasturian_Era_Thai",
+  "mc_version": "1.20.1",
+  "loader": "fabric",
+  "scope": {
+    "lang": true,
+    "quests": false,
+    "puffish": false
+  },
+  "lang_include": [
+    "."
+  ],
+  "lang_exclude": [
+    "^#",
+    "^(item|block|entity|enchantment|biome)\\.[^.]+\\.[^.]+$",
+    "^subtitles\\.",
+    "^(config\\.|text\\.autoconfig|gui\\.config)",
+    "\\.config\\.",
+    "^module\\.",
+    "^pneumaticcraft\\.armor\\.upgrade",
+    "^modifier\\.[^.]+\\.[^.]+(?:\\.flavor)?$"
+  ],
+  "lang_namespaces_skip": [
+    "minecraft",
+    "realms",
+    "fabric",
+    "fabric-api",
+    "forge",
+    "neoforge"
+  ],
+  "lang_namespaces_skip_regex": "^(sodium.*|iris|indium|modmenu|cloth.?config.*|yet_?another_?config.*|yacl.*|fancymenu|konkrete|drippyloadingscreen|entity_(model|texture)_features|controlling|xaero.*|journeymap|voicechat|betterf3|lambdynlights|immediatelyfast|modernfix|ferritecore|krypton|c2me.*|debugify|puzzle|continuity|polytone|resourcepackoverrides|bettermodsbutton|chat_heads)$",
+  "lang_namespaces": [
+    "create",
+    "createaddition",
+    "create_new_age",
+    "railways",
+    "copycats",
+    "createestrogen",
+    "ae2",
+    "extendedae",
+    "megacells",
+    "ae2wtlib",
+    "ae2-emi-crafting",
+    "merequester",
+    "appbot",
+    "modern_industrialization",
+    "techreborn",
+    "reborncore",
+    "powah",
+    "kibe",
+    "ad_astra",
+    "ad_astra_giselle_addon",
+    "ponder"
+  ],
+  "override_en_us": true,
+  "use_mod_thai": true,
+  "quest_title_style": "thai (english)",
+  "strip_bold": true,
+  "delivery": [
+    "resourcepacks",
+    "paxi"
+  ],
+  "fonts": [],
+  "ship_jars": [],
+  "server_package": false,
+  "export_dir": "E:\\minecratf\\work\\Prominence-tech\\export"
+}

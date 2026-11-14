@@ -1,0 +1,40 @@
+{
+  "replacements": [
+    {
+      "path": "assets/ae2/ae2guide/getting-started.md",
+      "old": "ด้วยพลั่วขุดไม่ได้",
+      "new": "ด้วย Pickaxe ไม่ได้",
+      "reason": "Pickaxe means pickaxe rather than shovel; keep searchable tool name English"
+    },
+    {
+      "path": "assets/ae2/ae2guide/ae2-mechanics/certus-growth.md",
+      "old": "ด้วยพลั่วขุดไม่ได้",
+      "new": "ด้วย Pickaxe ไม่ได้",
+      "reason": "Pickaxe means pickaxe rather than shovel; keep searchable tool name English"
+    },
+    {
+      "path": "assets/ae2/ae2guide/ae2-mechanics/energy.md",
+      "old": "พลังงาน Accepting",
+      "new": "การรับพลังงาน",
+      "reason": "Translate the complete Energy Accepting label naturally"
+    },
+    {
+      "path": "assets/ae2/ae2guide/ae2-mechanics/energy.md",
+      "old": "พลังงาน Storage",
+      "new": "การเก็บพลังงาน",
+      "reason": "Translate the complete Energy Storage label naturally"
+    },
+    {
+      "path": "assets/extendedae/ae2guide/epp_intro/upgrade_items.md",
+      "old": "|                                  Upgrade                                   |                           Normal Device                            |                              Extended Device                               |",
+      "new": "|                                  อัปเกรด                                   |                           อุปกรณ์รุ่นปกติ                            |                              อุปกรณ์รุ่น Extended                               |",
+      "reason": "Translate visible table header; preserve table cells and markup"
+    },
+    {
+      "path": "assets/extendedae/ae2guide/epp_intro/packing_tape.md",
+      "old": "|                                   Device                                   |                              Name                              |",
+      "new": "|                                   อุปกรณ์                                   |                              ชื่อ                              |",
+      "reason": "Translate visible table header; preserve table cells and markup"
+    }
+  ]
+}

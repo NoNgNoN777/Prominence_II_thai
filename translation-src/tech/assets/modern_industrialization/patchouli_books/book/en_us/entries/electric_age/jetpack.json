@@ -1,0 +1,28 @@
+{
+  "name": "Diesel Jetpack และเครื่องมือ",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:diesel_jetpack",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:armor/diesel_jetpack",
+      "text": "Jetpack พร้อมทะยาน... เชื้อเพลิงยิ่งทรงพลัง Jetpack ก็ยิ่งเร็ว! แนะนำ Rubber Boots และ Rubber Helmet...$(br2)อย่าลืมเปิดใช้งานด้วยปุ่ม $(o)เปิด/ปิดการบิน$()!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:armor/rubber_helmet",
+      "recipe2": "modern_industrialization:armor/rubber_boots"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/diesel_mining_drill",
+      "text": "ในที่สุด Mining Drill ก็แทน Pickaxe และ Shovel ได้ เติมเชื้อเพลิงที่ทรงพลังเพื่อให้เร็วที่สุด!$(br2)สลับระหว่าง Silk Touch กับ Fortune III ด้วย Shift คลิกขวา"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/diesel_chainsaw",
+      "text": "ตัดต้นไม้อย่างมีสไตล์!"
+    }
+  ],
+  "sortnum": 110
+}

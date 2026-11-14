@@ -1,0 +1,27 @@
+{
+  "name": "น้ำร้อน",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:bronze_boiler",
+  "pages": [
+    {
+      "type": "text",
+      "text": "เครื่องจักรไอน้ำต้องใช้ Steam และ Boiler ก็ผลิตสิ่งนี้โดยตรง$(br2)จะค่อย ๆ ใช้เชื้อเพลิงเพื่อเพิ่มความร้อน เมื่อร้อนพอจึงเริ่มผลิต Steam"
+    },
+    {
+      "type": "smelting",
+      "recipe": "modern_industrialization:vanilla_recipes/steam_bucket",
+      "text": "เผา Water Bucket ให้เป็น Steam Bucket ได้ด้วย สร้าง $(l:modern_industrialization:steam_age/steam_machines)Bronze Compressor$() เครื่องแรกก่อน Boiler เพื่อประหยัด Plate ได้มาก!$(br2)พลิกหน้าต่อไปเพื่อดูตัว Boiler..."
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/bronze/boiler_asbl",
+      "text": "ตอนนี้อาจดูแพง แต่อย่าลืมว่า Forge Hammer ช่วยเพิ่มผลผลิตแร่เป็นสามเท่าได้ และเมื่อมีเครื่องจักรสองเครื่องแรก ต้นทุนจะลดลงกว่าครึ่ง!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/fire_clay_dust",
+      "text": "ผลิต Fire Clay Bricks โดยเผา Fire Clay Dust ซึ่งต้องใช้ Brick Dust ในการคราฟต์ สร้าง Brick Dust โดยใส่ Brick ใน Forge Hammer เพิ่มประสิทธิภาพกระบวนการได้ด้วยเครื่องจักรไอน้ำหรือ Hammer"
+    }
+  ],
+  "sortnum": 2
+}

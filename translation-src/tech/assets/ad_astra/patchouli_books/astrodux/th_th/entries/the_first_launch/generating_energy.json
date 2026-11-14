@@ -1,0 +1,18 @@
+{
+  "name": "การผลิตพลังงาน",
+  "icon": "ad_astra:coal_generator",
+  "sortnum": 0,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Coal Generator",
+      "item": "ad_astra:coal_generator",
+      "text": "พลังงานเป็นทรัพยากรหลักของ Ad Astra ใช้กับเครื่องจักรทุกชนิดและจำเป็นสำหรับทุกอย่าง ผลิตได้หลายวิธี วิธีพื้นฐานที่สุดคือ Coal Generator ซึ่งใช้ทรัพยากรที่เผาได้ เช่น Wood หรือ Coal ผลิตพลังงาน"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:coal_generator"
+    }
+  ]
+}

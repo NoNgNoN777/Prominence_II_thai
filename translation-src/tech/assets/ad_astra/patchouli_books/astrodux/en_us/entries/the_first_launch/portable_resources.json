@@ -1,0 +1,29 @@
+{
+  "name": "ทรัพยากรพกพา",
+  "icon": "ad_astra:gas_tank",
+  "sortnum": 6,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Gas Tanks",
+      "item": "ad_astra:gas_tank",
+      "text": "Gas Tank ให้คุณเก็บออกซิเจนในรูปแบบพกพาสะดวก แม้ชื่อจะเป็นถังแก๊ส แต่เก็บของเหลวชนิดใดก็ได้ คลิกขวาค้างเพื่อกระจายออกซิเจนไปยังไอเทมในช่องเก็บของ โดยให้ชุดเกราะก่อน"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:gas_tank",
+      "recipe2": "ad_astra:large_gas_tank"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Etrionic Capacitor",
+      "item": "ad_astra:etrionic_capacitor",
+      "text": "Etrionic Capacitor เป็นไอเทมคล้ายแบตเตอรี่สำหรับเก็บพลังงานแบบพกพา วางในช่องพลังงานของเครื่องจักรเพื่อจ่ายไฟได้ และเช่นเดียวกับ Gas Tank คลิกขวาค้างเพื่อกระจายพลังงานให้ไอเทมในช่องเก็บของได้ มีสองโหมดคือเรียงลำดับและวนรอบ แบบเรียงลำดับจะจ่ายทีละชิ้น ส่วนแบบวนรอบจะกระจายอย่างทั่วถึง ย่องพร้อมคลิกขวาเพื่อเปลี่ยนโหมด"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:etrionic_capacitor"
+    }
+  ]
+}

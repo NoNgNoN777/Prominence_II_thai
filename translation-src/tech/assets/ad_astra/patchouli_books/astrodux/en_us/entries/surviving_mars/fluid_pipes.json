@@ -1,0 +1,29 @@
+{
+  "name": "ท่อของเหลว",
+  "icon": "ad_astra:ostrum_fluid_pipe",
+  "sortnum": 4,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "ท่อของเหลว",
+      "item": "ad_astra:ostrum_fluid_pipe",
+      "text": "Fluid Pipe คล้าย Cable แต่ใช้ถ่ายโอนของเหลวแทนพลังงาน หากต้องการใช้ ให้คราฟต์ Fluid Pipe กับ Wrench จากนั้นถือ Wrench คลิกขวาที่ท่อเพื่อสลับโหมด: ไม่เชื่อมต่อ ปกติ ใส่เข้า และดึงออก"
+    },
+    {
+      "type": "patchouli:crafting",
+      "text": "ท่อที่ตั้งโหมดใส่เข้าจะรับของเหลวจากเครือข่าย ส่วนท่อที่ตั้งโหมดดึงออกจะสูบของเหลวเข้าเครือข่าย",
+      "recipe": "ad_astra:desh_fluid_pipe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:ostrum_fluid_pipe",
+      "recipe2": "ad_astra:wrench"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:fluid_pipe_duct",
+      "text": "เช่นเดียวกับ Cable ท่อของเหลวมีบล็อก Duct สำหรับถ่ายโอนของเหลวผ่านเข้าออกโครงสร้างที่ปิดผนึกได้อย่างปลอดภัย"
+    }
+  ]
+}

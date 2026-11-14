@@ -1,0 +1,17 @@
+[
+  {
+    "path": "config\\fancymenu\\customization\\Esc Menu.txt",
+    "sha256_before": "ec640e7bfd1a7ed22d6ecca904a2502ada22b0167e723664acf4a8a2fb901bc6",
+    "change": "replace exact source heading only"
+  },
+  {
+    "path": "config\\fancymenu\\customization\\LoadingScreen.txt",
+    "sha256_before": "3a3d56791b5a20959bb92cc2dca4bdf77ae2b07cae126460aae179c1c3233753",
+    "change": "replace exact source heading only"
+  },
+  {
+    "path": "config\\fancymenu\\assets\\tips.txt",
+    "sha256_before": "ea340ede8b60f3292cf2b52d980e47b6933484451da27acb480c054ad599bdf7",
+    "lines": 17
+  }
+]

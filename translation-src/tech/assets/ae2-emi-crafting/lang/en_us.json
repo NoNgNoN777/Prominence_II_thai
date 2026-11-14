@@ -1,0 +1,9 @@
+{
+  "ae2-emi-crafting.category_condenser": "Matter Condenser",
+  "ae2-emi-crafting.category_inscriber": "Inscriber",
+  "ae2-emi-crafting.category_attunement": "ปรับชนิด P2P Tunnel",
+  "ae2-emi-crafting.category_transform": "การแปรสภาพในโลก",
+  "ae2-emi-crafting.category_charger": "Charger",
+  "ae2-emi-crafting.category_entropy_manipulator": "Entropy Manipulator",
+  "ae2-emi-crafting.error.crafting.storage_terminal": "คราฟต์ผ่าน ME Storage Terminal ไม่ได้"
+}

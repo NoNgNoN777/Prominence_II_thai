@@ -1,0 +1,28 @@
+{
+  "name": "เชื้อเพลิงที่ดีกว่า",
+  "icon": "ad_astra:cryo_freezer",
+  "sortnum": 6,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Cryo Freezer",
+      "item": "ad_astra:cryo_freezer",
+      "text": "เชื้อเพลิงหาได้ยาก เพราะต้องออกไปในมหาสมุทรเพื่อตามหาแหล่ง Oil ที่พุ่งขึ้นมา Cryo Freezer เพิ่มวิธีหาเชื้อเพลิงที่ดีกว่า นั่นคือ Cryo Fuel ซึ่งมีประสิทธิภาพสูงกว่า Fuel ที่กลั่นแล้วมาก ทำให้ปล่อยจรวดได้ด้วยเชื้อเพลิงเพียงหนึ่ง Bucket"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "สร้างได้จาก Ice Shard ซึ่งพบเป็นแร่ใต้ดินบนดาวเคราะห์หนาวเย็น นำ Ice Shard ใส่ Cryo Freezer เพื่อเปลี่ยนเป็น Cryo Fuel 25 mB หรือจะแปลง Ice, Packed Ice และ Blue Ice เป็นเชื้อเพลิงก็ได้ เมื่อผลิตได้อย่างน้อยสอง Bucket แล้ว (หนึ่งสำหรับขาไป อีกหนึ่งสำหรับขากลับ) ให้วางลงในช่องเชื้อเพลิงจรวด"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:cryo_freezer"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Cryo Fuel",
+      "item": "ad_astra:cryo_fuel_bucket",
+      "text": "นอกจากเป็นเชื้อเพลิงชั้นดี Cryo Fuel ยังมีคุณสมบัติอื่น เมื่อวางลงจะสร้างความเสียหายให้ทุกสิ่งที่อยู่ภายในคล้ายลาวา และยังทำให้น้ำแข็งตัว จึงใช้เป็นแหล่ง Ice ที่ไม่มีวันหมดได้"
+    }
+  ]
+}

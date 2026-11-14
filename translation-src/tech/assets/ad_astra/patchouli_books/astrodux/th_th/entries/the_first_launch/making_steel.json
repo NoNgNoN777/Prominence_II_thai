@@ -1,0 +1,24 @@
+{
+  "name": "การผลิต Steel",
+  "icon": "ad_astra:etrionic_blast_furnace",
+  "sortnum": 2,
+  "category": "ad_astra:the_first_launch",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Etrionic Blast Furnace",
+      "item": "ad_astra:etrionic_blast_furnace",
+      "text": "Etrionic Blast Furnace เป็นรุ่นอัปเกรดของ Blast Furnace มีสองโหมดคือถลุงและผสมโลหะ โหมดถลุงทำงานเหมือน Blast Furnace แต่มี 4 ช่อง จึงมีประสิทธิภาพ 4 เท่า ส่วนโหมดผสมโลหะจะรวมวัสดุให้เป็นโลหะผสม"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:etrionic_blast_furnace"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Steel",
+      "item": "ad_astra:steel_ingot",
+      "text": "ผลิต Steel ใน Etrionic Blast Furnace โดยผสม Iron กับ Coal ได้ Steel Ingot 1 ชิ้นต่อ Iron และ Coal หนึ่งชุด Steel จำเป็นกับสูตรส่วนใหญ่ และเป็นวัสดุหลักของจรวดลำแรก"
+    }
+  ]
+}

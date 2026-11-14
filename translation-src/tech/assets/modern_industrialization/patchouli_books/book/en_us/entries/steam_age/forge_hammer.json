@@ -1,0 +1,31 @@
+{
+  "name": "เริ่มต้นใช้งาน",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:forge_hammer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "ก่อนผลิต Bronze ต้องสร้าง Forge Hammer สำหรับแปรรูปขั้นพื้นฐาน$(br2)ใส่ Iron Ore, Copper Ore และ Tin Ore ใน Forge Hammer จะได้ Raw Ore 2 ชิ้นต่อแร่หนึ่งบล็อก เพิ่มอัตรานี้ได้ด้วย Hammer และ Raw Ore ทุกชนิดเผาเป็น Ingot ได้ "
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:materials/iron/craft/hammer",
+      "text": "Hammer เพิ่มอัตราผลผลิตของ Forge Hammer และปลดล็อกสูตรเพิ่มเติม โดยแลกกับความทนทานบางส่วน"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:forge_hammer",
+      "text": "ตอนนี้ลองพิจารณาสร้าง Steam Mining Drill เพื่อขุดบล็อกแร่โดยตรงโดยไม่ต้องใช้ Pickaxe ที่มี Silk Touch"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:tools/steam_mining_drill",
+      "text": "Steam Mining Drill ขุดได้ครั้งละ 3x3 บล็อก เหมาะกับการขุดช่วงต้นเกม! และมี Silk Touch ซึ่งใช้ร่วมกับ Forge Hammer ได้ดี"
+    },
+    {
+      "type": "text",
+      "text": "Steam Mining Drill ต้องใช้น้ำและเชื้อเพลิงแข็ง (เช่น Coal)$(br2)คลิกขวาที่แหล่งน้ำเพื่อเติมน้ำ และอย่าลืมเติมเชื้อเพลิงโดยใช้ไอเทมเชื้อเพลิงคลิกขวาที่สว่านในช่องเก็บของ เชื้อเพลิงจะค่อย ๆ ถูกใช้เมื่อขุด"
+    }
+  ],
+  "sortnum": 0
+}

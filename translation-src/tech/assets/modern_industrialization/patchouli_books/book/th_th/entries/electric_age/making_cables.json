@@ -1,0 +1,17 @@
+{
+  "name": "การผลิตสายไฟ",
+  "category": "modern_industrialization:electric_age",
+  "icon": "modern_industrialization:tin_wire",
+  "pages": [
+    {
+      "type": "text",
+      "text": "ผสม Coke Dust กับ Water ใน Mixer เพื่อรับ Raw Synthetic Oil แล้วเผาใน Steam Blast Furnace ให้เป็น Synthetic Oil ผสมกับ Paper เพื่อรับ Rubber Sheet!$(br2)แนะนำให้ทำกระบวนการนี้แบบอัตโนมัติ! และผลิต Paper จาก Wood โดยใช้ Wood Pulp ได้"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/wiremill_asbl",
+      "text": "สำหรับเส้นลวด ต้องใช้ Wiremill! ผสมเส้นลวดกับ Rubber Sheet เพื่อผลิตสายไฟ!"
+    }
+  ],
+  "sortnum": 100
+}

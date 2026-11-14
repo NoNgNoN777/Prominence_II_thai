@@ -1,0 +1,18 @@
+{
+  "name": "ธง",
+  "icon": "ad_astra:blue_flag",
+  "sortnum": 1,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "ธง",
+      "item": "ad_astra:lime_flag",
+      "text": "Flag เป็นบล็อกตกแต่งที่มี 16 สี ตามค่าเริ่มต้น เมื่อวางจะแสดงใบหน้าของเจ้าของธง ตั้งให้แสดงภาพจาก URL ได้โดยคลิกขวาแล้วใส่ URL ในหน้าจอ ภาพจากอินเทอร์เน็ตนั้นจะแสดงบนธง"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:black_flag"
+    }
+  ]
+}

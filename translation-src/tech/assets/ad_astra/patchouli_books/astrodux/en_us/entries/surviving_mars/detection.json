@@ -1,0 +1,18 @@
+{
+  "name": "การตรวจจับ",
+  "icon": "ad_astra:oxygen_sensor",
+  "sortnum": 7,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Oxygen Sensor",
+      "item": "ad_astra:oxygen_sensor",
+      "text": "Oxygen Sensor เป็นบล็อกที่ส่งสัญญาณเรดสโตนเมื่อตรวจพบออกซิเจน กด Shift+คลิกขวาเพื่อกลับค่าสัญญาณได้ แม้ชื่อจะบอกว่าใช้ตรวจออกซิเจน แต่คุณเปลี่ยนสิ่งที่ตรวจได้โดยถือ Wrench คลิกขวา มีตัวเลือกตรวจออกซิเจน อุณหภูมิปลอดภัย และแรงโน้มถ่วงปกติ"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:oxygen_sensor"
+    }
+  ]
+}

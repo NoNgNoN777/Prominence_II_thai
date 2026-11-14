@@ -1,0 +1,44 @@
+{
+  "name": "อัปเกรดเป็น Steel",
+  "category": "modern_industrialization:steam_age",
+  "icon": "modern_industrialization:steel_boiler",
+  "pages": [
+    {
+      "type": "text",
+      "text": "เมื่อมี Steel แล้ว อัปเกรดเครื่อง Bronze ได้หากต้องการ เครื่อง Steel รองรับสูตรสูงสุด 4 EU/t และทำงานเร็วขึ้นสองเท่าตราบใดที่การใช้พลังงานไม่เกิน 4 EU/t สรุปคือเร็วกว่า Bronze สองเท่า และอาจปลดล็อกสูตรใหม่ด้วย"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/steel_upgrade_asbl",
+      "text": "อัปเกรดเครื่อง Bronze โดยคราฟต์ Steel Upgrade แล้วใช้ใน Smithing Table"
+    },
+    {
+      "type": "text",
+      "text": "Steel Hatch จุได้มากกว่า Bronze Hatch และโครงสร้างที่มี Steel Hatch อย่างน้อยหนึ่งตัวจะอัปเกรดเป็นระดับ Steel ทำให้เร็วขึ้นสองเท่าหากการใช้พลังงานไม่เกิน 4 EU/t$(br2)Steel Boiler ผลิต Steam มากกว่า Bronze สองเท่า สูงสุด 16 EU/t และ Steel Water Pump ผลิตน้ำมากกว่ารุ่น Bronze สองเท่า สูงสุด 2 ถัง / 5 วินาที"
+    },
+    {
+      "type": "text",
+      "text": "Steel Tank เก็บได้สูงสุด 8 ถัง$(br2)ดูสูตรทั้งหมดได้ใน REI!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/packer_asbl",
+      "text": "Packer เป็นเครื่องใหม่ที่มีเฉพาะระดับ Steel ใช้ทำสูตรคราฟต์พื้นฐานได้ ตอนนี้คุณทำ Double Ingot และ Pipe แบบอัตโนมัติได้แล้ว! ดู REI อีกเช่นเคย"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:steam_age/steel/unpacker_asbl",
+      "text": "Unpacker เป็นเครื่องใหม่ที่มีเฉพาะระดับ Steel... ลองทายว่ามันทำอะไร o_O"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modern_industrialization:trash_can",
+      "text": "มี Steel Plate ไม่กี่ชิ้นก็คราฟต์บล็อกที่มีประโยชน์มากได้แล้ว!$(br2)Automatic Trash Can ทำลายไอเทมหรือของเหลวทุกอย่างที่ส่งผ่านท่อเข้ามา!"
+    },
+    {
+      "type": "text",
+      "text": "นอกจากนี้ ถือ Trash Can ไว้เหนือถังของเหลวในหน้าจอเครื่องจักรแล้วคลิก เพื่อเทของเหลวจากถังลงถังขยะโดยตรงได้"
+    }
+  ],
+  "sortnum": 11
+}

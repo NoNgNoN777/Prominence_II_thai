@@ -1,0 +1,19 @@
+{
+  "name": "Gravity Normalizer",
+  "icon": "ad_astra:gravity_normalizer",
+  "sortnum": 3,
+  "category": "ad_astra:the_moon",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Gravity Normalizer",
+      "item": "ad_astra:gravity_normalizer",
+      "text": "Gravity Normalizer สร้างแรงโน้มถ่วงเทียมในพื้นที่ปิดผนึกได้ คล้าย Oxygen Distributor มีแถบเลื่อนตั้งแรงโน้มถ่วงเป้าหมายได้ตั้งแต่ 0-G ถึง 2-G เครื่องใช้พลังงานค่อนข้างมาก จึงควรเลี่ยงหากโครงสร้างของคุณไม่จำเป็นต้องใช้"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "สูตร Gravity Normalizer",
+      "recipe": "ad_astra:gravity_normalizer"
+    }
+  ]
+}

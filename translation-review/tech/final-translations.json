@@ -2550,7 +2550,7 @@
     "lang|ae2|ae2.guidebook.HideAnnotations": "ซ่อนคำอธิบายประกอบ",
     "lang|ae2|ae2.guidebook.HistoryGoBack": "ย้อนกลับหนึ่งหน้า",
     "lang|ae2|ae2.guidebook.HistoryGoForward": "ไปข้างหน้าหนึ่งหน้า",
-    "lang|ae2|ae2.guidebook.HoldToShow": "กด [%s] ค้างเพื่อเปิดคู่มือ",
+    "lang|ae2|ae2.guidebook.HoldToShow": "§7กด [%s] ค้างเพื่อเปิดคู่มือ",
     "lang|ae2|ae2.guidebook.ResetView": "คืนค่ามุมมอง",
     "lang|ae2|ae2.guidebook.Search": "ค้นหา",
     "lang|ae2|ae2.guidebook.ShowAnnotations": "แสดงคำอธิบายประกอบ",

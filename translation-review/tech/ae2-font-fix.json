@@ -1,0 +1,11 @@
+{
+  "guide_font": "minecraft:uniform",
+  "ae2_field": "MinecraftClient.field_24211",
+  "vanilla_font_field_confirmed_from_bytecode": true,
+  "bridge": "minecraft:uniform -> minecraft:default",
+  "thai_font_files_copied": false,
+  "tooltip_fix": "§7 resets inherited synthetic italic before Thai",
+  "zip_crc": "passed",
+  "in_game_retest": false,
+  "sha256": "7822f547580e61a5362956333622725b1527aa19b26b03c2c1bf11bb3cb2755c"
+}

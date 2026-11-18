@@ -14,7 +14,7 @@ item_ids:
 
 <ItemImage id="certus_quartz_crystal" scale="4" />
 
-*"Certus Quartz Crystal มีคุณสมบัติพิเศษที่รับพลังงานปริมาณมากเข้าไปในโครงผลึกได้"*
+"Certus Quartz Crystal มีคุณสมบัติพิเศษที่รับพลังงานปริมาณมากเข้าไปในโครงผลึกได้"
 
 หนึ่งในวัตถุดิบหลักสำหรับบล็อก [อุปกรณ์](../ae2-mechanics/devices.md) และไอเทมของ AE2 ผลิตโดยเพาะจาก [Budding Certus](../ae2-mechanics/certus-growth.md)
 

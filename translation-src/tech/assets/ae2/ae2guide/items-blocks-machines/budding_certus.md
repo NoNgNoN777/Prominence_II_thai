@@ -36,8 +36,8 @@ item_ids:
 Flawless Budding Certus ไม่เสื่อมสภาพจากการเติบโตของตาคริสตัล จึงเป็นแหล่งทรัพยากรไม่สิ้นสุด
 
 เมื่อทุบด้วย Pickaxe ปกติ Budding Certus Block จะลดลง 1 ระดับ หากทุบด้วย Pickaxe
-ที่มี Silk Touch จะไม่เสื่อมสภาพ ยกเว้น Flawless **จึงเก็บและย้าย Flawless Budding Certus Block
-ด้วย Pickaxe ไม่ได้** แต่ใช้ [Spatial Storage](../ae2-mechanics/spatial-io.md)
+ที่มี Silk Touch จะไม่เสื่อมสภาพ ยกเว้น Flawless จึงเก็บและย้าย Flawless Budding Certus Block
+ด้วย Pickaxe ไม่ได้ แต่ใช้ [Spatial Storage](../ae2-mechanics/spatial-io.md)
 ตัดและวางบล็อก Flawless ย้ายที่ได้
 
 ## Recipes

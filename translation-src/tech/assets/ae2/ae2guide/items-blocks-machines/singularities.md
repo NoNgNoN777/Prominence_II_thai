@@ -32,7 +32,7 @@ item_ids:
 
 <RecipeFor id="quantum_entangled_singularity" />
 
-***การระเบิดแทบทุกชนิดใช้ได้ แม้แต่ Creeper***
+การระเบิดแทบทุกชนิดใช้ได้ แม้แต่ Creeper
 
 ผลิตเป็นคู่เสมอ แต่ใช้ <ItemLink id="singularity" /> เพียงชิ้นเดียว
 

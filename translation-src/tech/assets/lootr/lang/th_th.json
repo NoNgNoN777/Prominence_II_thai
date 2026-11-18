@@ -1,0 +1,8 @@
+{
+  "lootr.message.decayed": "ภาชนะที่ผุพังแตกสลายเมื่อคุณสัมผัส!",
+  "lootr.message.decay_in": "ภาชนะนี้จะผุพังสลายไปจนหมดใน %s วินาที",
+  "lootr.message.decay_start": "ภาชนะเริ่มผุพังเมื่อคุณสัมผัส! มันจะสลายไปจนหมดใน %s วินาที",
+  "lootr.message.refreshed": "ของในภาชนะถูกรีเฟรชเมื่อคุณสัมผัส!",
+  "lootr.message.refresh_in": "ภาชนะนี้จะรีเฟรชของข้างในใน %s วินาที",
+  "lootr.message.refresh_start": "ภาชนะจะรีเฟรชพร้อมของใหม่ใน %s วินาที!"
+}

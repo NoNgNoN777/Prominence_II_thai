@@ -21,6 +21,6 @@ item_ids:
 
 ME Extended Interface เป็น <ItemLink id="ae2:interface" /> ที่มีช่องกำหนดรายการมากขึ้น
 
-*จำเป็นต้องใช้ขนาดนี้จริง ๆ หรือ?*
+จำเป็นต้องใช้ขนาดนี้จริง ๆ หรือ?
 
 ![EIGui](../pic/ei_gui.png)

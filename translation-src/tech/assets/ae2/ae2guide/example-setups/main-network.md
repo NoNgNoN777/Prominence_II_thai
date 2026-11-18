@@ -26,7 +26,7 @@ navigation:
     </BoxAnnotation>
 
     <BoxAnnotation color="#dddddd" min="-0.1 0 8.9" max="1.1 3 13.1" thickness="0.05">
-      Terminal และอุปกรณ์อรรถประโยชน์ต่าง ๆ (ปกติน่าจะใช้แค่ Crafting Terminal ไม่จำเป็นต้องมีทั้ง Terminal ธรรมดา _และ_ Crafting Terminal)
+      Terminal และอุปกรณ์อรรถประโยชน์ต่าง ๆ (ปกติน่าจะใช้แค่ Crafting Terminal ไม่จำเป็นต้องมีทั้ง Terminal ธรรมดา และ Crafting Terminal)
     </BoxAnnotation>
 
     <BoxAnnotation color="#dddddd" min="-0.1 0 -0.1" max="2.1 3 8.1" thickness="0.05">

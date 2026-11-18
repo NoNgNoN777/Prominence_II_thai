@@ -16,7 +16,7 @@ item_ids:
 
 อุปกรณ์นี้ผลิตพลังงานให้เครือข่าย ME โดยไม่ต้องใช้เชื้อเพลิง แต่การสั่นของคริสตัลที่เกิดจากอุปกรณ์ทำให้แต่ละเครือข่ายใช้ได้เพียงเครื่องเดียว การสั่นนี้ส่งผ่าน <ItemLink id="quartz_fiber" /> ได้ด้วย
 
-**อัตราผลิต:** <ae2:ConfigValue name="crystalResonanceGeneratorRate"/> AE/t
+อัตราผลิต: <ae2:ConfigValue name="crystalResonanceGeneratorRate"/> AE/t
 
 ## Recipes
 

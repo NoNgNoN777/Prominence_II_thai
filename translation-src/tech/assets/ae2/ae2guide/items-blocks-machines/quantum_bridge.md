@@ -34,7 +34,7 @@ Quantum Network Bridge ขยาย [เครือข่าย](../ae2-mechani
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
-โปรดทราบว่า **ต้องโหลดชังก์ทั้งสองฝั่ง** จึงต้องใช้ <ItemLink id="spatial_anchor" /> หรือเครื่องโหลดชังก์อื่น
+โปรดทราบว่า ต้องโหลดชังก์ทั้งสองฝั่ง จึงต้องใช้ <ItemLink id="spatial_anchor" /> หรือเครื่องโหลดชังก์อื่น
 หากปลายทั้งสองอยู่ห่างกัน
 
 # Quantum Ring

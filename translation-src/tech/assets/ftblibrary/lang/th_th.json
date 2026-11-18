@@ -1,0 +1,10 @@
+{
+  "gui.info": "ข้อมูล",
+  "sidebar_button.ftblibrary.toggle.gamemode.tooltip": "สลับระหว่างโหมดเอาชีวิตรอดและครีเอทีฟ",
+  "sidebar_button.ftblibrary.toggle.rain.tooltip": "สลับสภาพอากาศระหว่างแจ่มใสและฝนตก",
+  "sidebar_button.ftblibrary.toggle.day.tooltip": "ตั้งเวลากลางวัน",
+  "sidebar_button.ftblibrary.toggle.night.tooltip": "ตั้งเวลากลางคืน",
+  "ftblibrary.client_settings.tooltips.item_modname": "แสดงชื่อม็อดในหน้าจอเลือกไอเทม",
+  "ftblibrary.client_settings.tooltips.fluid_modname": "แสดงชื่อม็อดในหน้าจอเลือกของเหลว",
+  "ftblibrary.client_settings.tooltips.image_modname": "แสดงชื่อม็อดในหน้าจอเลือกรูปภาพ"
+}

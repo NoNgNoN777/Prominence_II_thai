@@ -6,7 +6,7 @@
     {
       "type": "crafting",
       "recipe": "modern_industrialization:armor/diesel_jetpack",
-      "text": "Jetpack พร้อมทะยาน... เชื้อเพลิงยิ่งทรงพลัง Jetpack ก็ยิ่งเร็ว! แนะนำ Rubber Boots และ Rubber Helmet...$(br2)อย่าลืมเปิดใช้งานด้วยปุ่ม $(o)เปิด/ปิดการบิน$()!"
+      "text": "Jetpack พร้อมทะยาน... เชื้อเพลิงยิ่งทรงพลัง Jetpack ก็ยิ่งเร็ว! แนะนำ Rubber Boots และ Rubber Helmet...$(br2)อย่าลืมเปิดใช้งานด้วยปุ่ม เปิด/ปิดการบิน$()!"
     },
     {
       "type": "crafting",

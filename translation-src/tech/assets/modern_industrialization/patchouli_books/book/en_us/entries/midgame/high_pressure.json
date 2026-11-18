@@ -16,7 +16,7 @@
     {
       "type": "crafting",
       "recipe": "modern_industrialization:electric_age/machine/large_steam_turbine_asbl",
-      "text": "Large Steam Turbine แปลงได้ทั้ง Steam ปกติ (1 mb = 1 EU) และ HP Steam (1 mb = 8 EU) เป็น EU และผลิตได้สูงสุด 16384 EU/t! $(l)แต่จะไม่คืนทั้ง Water ปกติหรือ HP Water$()"
+      "text": "Large Steam Turbine แปลงได้ทั้ง Steam ปกติ (1 mb = 1 EU) และ HP Steam (1 mb = 8 EU) เป็น EU และผลิตได้สูงสุด 16384 EU/t! แต่จะไม่คืนทั้ง Water ปกติหรือ HP Water$()"
     },
     {
       "type": "crafting",

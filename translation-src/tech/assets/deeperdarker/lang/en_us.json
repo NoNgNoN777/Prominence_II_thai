@@ -1,0 +1,14 @@
+{
+  "item.deeperdarker.warden_backtank.tooltip.behaviour1": "จ่าย_อากาศอัด_ให้แก่อุปกรณ์ที่ต้องจำเป็นใช้อากาศอัด",
+  "item.deeperdarker.warden_backtank.tooltip.behaviour2": "_อัดอากาศอัด_ใส่ถังอากาศด้วยอัตราที่ขึ้นกับความเร็วการหมุน",
+  "item.deeperdarker.warden_backtank.tooltip.condition1": "เมื่อสวมใส่",
+  "item.deeperdarker.warden_backtank.tooltip.condition2": "เมื่อถูกวางและให้แรงหมุน",
+  "item.deeperdarker.warden_backtank.tooltip.summary": "_ถังสวมใส่ได้_สำหรับพกพาอากาศอัด",
+  "item.deeperdarker.warden_diving_boots.tooltip.behaviour1": "ผู้ถือครอง_จม_ในของเหลว_เร็วขึ้น_ ได้รับความสามารถในการ_เดิน_และ_กระโดด_ใต้น้ำ และจะไม่ได้รับผลกระทบจาก_สายพาน_",
+  "item.deeperdarker.warden_diving_boots.tooltip.condition1": "เมื่อสวมใส่",
+  "item.deeperdarker.warden_diving_boots.tooltip.summary": "_รองเท้า_ ที่ _หนัก_ ช่วยให้เดินบนพื้นมหาสมุทรได้คล่องขึ้น รวมถึงทะเล Lava ด้วย",
+  "item.deeperdarker.warden_diving_helmet.tooltip.behaviour1": "ให้ภูมิป้องกัน_ไฟ_และ_ลาวา_ รวมถึง_ทัศนวิสัย_ในลาวา_ที่ดีขึ้น_โดยใช้_อากาศอัด_จากถังอากาศอย่างช้า ๆ",
+  "item.deeperdarker.warden_diving_helmet.tooltip.condition1": "เมื่อสวมใส่ (ครบชุด)",
+  "tooltips.deeperdarker.sculk_transmitter.location_advanced": "มิติ: %s",
+  "tooltips.deeperdarker.sculk_transmitter.not_linked": "ยังไม่เชื่อมโยง"
+}

@@ -1,0 +1,8 @@
+{
+  "trinkets.tooltip.slots.any": "สวมใส่ได้ใน §9ทุก§r ช่อง Trinket",
+  "trinkets.tooltip.slots.list": "สวมใส่ได้ในช่อง Trinket:",
+  "trinkets.tooltip.slots.single": "สวมใส่ได้ในช่อง Trinket %d",
+  "trinkets.tooltip.attributes.all": "เมื่อสวมใส่:",
+  "trinkets.tooltip.attributes.single": "เมื่อสวมใส่ในช่อง Trinket %d:",
+  "trinkets.tooltip.attributes.slots": "ช่อง %d"
+}

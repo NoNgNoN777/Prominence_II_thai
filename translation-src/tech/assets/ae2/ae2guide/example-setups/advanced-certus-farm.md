@@ -17,7 +17,7 @@ navigation:
 ระบบนี้ใช้ [Charger อัตโนมัติ](charger-automation.md) และ [การโยนลงน้ำอัตโนมัติ](throw-in-water-automation.md)
 เพื่อทำขั้นตอนนั้นอัตโนมัติ
 
-**โครงสร้างนี้ซับซ้อนและมีบางส่วนถูกบังอยู่ ให้หมุนมุมมองเพื่อตรวจดูจากทุกด้าน**
+โครงสร้างนี้ซับซ้อนและมีบางส่วนถูกบังอยู่ ให้หมุนมุมมองเพื่อตรวจดูจากทุกด้าน
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/advanced_certus_farm.snbt" />

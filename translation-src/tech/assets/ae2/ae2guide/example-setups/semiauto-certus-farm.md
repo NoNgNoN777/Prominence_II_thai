@@ -14,7 +14,7 @@ navigation:
 อัตโนมัติเต็มรูปแบบได้ ซึ่งต้องใช้ [Spatial IO](../ae2-mechanics/spatial-io.md) หรือสร้างฟาร์มที่ [อุกกาบาต](../ae2-mechanics/meteorites.md)
 
 แต่ AE2 วางและทุบบล็อกได้ จึงอาจ
-ทำให้ฟาร์ม *เปลี่ยน Budding Certus ให้คุณได้* (คุณต้องคอยใส่
+ทำให้ฟาร์ม เปลี่ยน Budding Certus ให้คุณได้ (คุณต้องคอยใส่
 <ItemLink id="flawed_budding_quartz" /> ในถังขาเข้า และดึง <ItemLink id="quartz_block" /> ออกจากถังบล็อก
 Budding Certus ที่ใช้หมดเป็นระยะ)
 
@@ -23,7 +23,7 @@ Budding Certus ที่ใช้หมดเป็นระยะ)
 ฟาร์มนี้ซับซ้อนกว่า [ฟาร์ม Certus แบบง่าย](simple-certus-farm.md) เล็กน้อย เพราะจริง ๆ คือ
 ระบบแยกกัน 3 ชุดที่ยัดรวมไว้ด้วยกัน
 
-**โครงสร้างนี้ซับซ้อนและมีบางส่วนถูกบังอยู่ ให้หมุนมุมมองเพื่อตรวจดูจากทุกด้าน**
+โครงสร้างนี้ซับซ้อนและมีบางส่วนถูกบังอยู่ ให้หมุนมุมมองเพื่อตรวจดูจากทุกด้าน
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/semiauto_certus_farm.snbt" />

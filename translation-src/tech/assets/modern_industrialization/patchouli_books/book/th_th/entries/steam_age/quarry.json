@@ -7,7 +7,7 @@
       "type": "spotlight",
       "item": "modern_industrialization:steam_quarry",
       "title": "Steam Quarry",
-      "text": "Steam Quarry เป็นเครื่องจักรไอน้ำหลายบล็อกที่ใช้ Bronze Drill เจาะลึกกว่า Bedrock แล้วให้แร่กลับมาตามที่แสดงใน REI$(br2)แนะนำให้มี SBF หลายเครื่องทำงานก่อนเริ่มสร้าง เพราะต้องใช้ $(l)Steel จำนวนมาก$()"
+      "text": "Steam Quarry เป็นเครื่องจักรไอน้ำหลายบล็อกที่ใช้ Bronze Drill เจาะลึกกว่า Bedrock แล้วให้แร่กลับมาตามที่แสดงใน REI$(br2)แนะนำให้มี SBF หลายเครื่องทำงานก่อนเริ่มสร้าง เพราะต้องใช้ Steel จำนวนมาก$()"
     },
     {
       "type": "crafting",

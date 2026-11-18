@@ -1,0 +1,13 @@
+{
+  "customtooltips.tooltip_list_screen.search": "ค้นหา...",
+  "customtooltips.tooltip_list_widget.enabled_button": "เปิดใช้งาน",
+  "customtooltips.tooltip_list_widget.disabled_button": "ปิดใช้งาน",
+  "customtooltips.tooltip_edit_screen.category.target": "เป้าหมาย",
+  "customtooltips.tooltip_edit_screen.target_id": "เป้าหมาย",
+  "customtooltips.tooltip_edit_screen.style.solid": "พื้น",
+  "customtooltips.tooltip_edit_screen.background_type.solid": "พื้น",
+  "customtooltips.tooltip_edit_screen.position": "ตำแหน่ง",
+  "customtooltips.tooltip_list_widget.delete_button": "ลบ",
+  "customtooltips.tooltip_list_widget.edit_button": "แก้ไข",
+  "customtooltips.tooltip_list_widget.duplicate_button": "ทำสำเนา"
+}

@@ -35,7 +35,7 @@ Certus Quartz Block ลงน้ำพร้อม <ItemLink id="charged_certus_
 <RecipeFor id="damaged_budding_quartz" />
 
 Flawless Budding Certus Quartz จะไม่เสื่อมและผลิต Certus ได้ไม่จำกัด แต่คราฟต์หรือย้าย
-ด้วย Pickaxe ไม่ได้ แม้จะมี Silk Touch (อย่างไรก็ตาม *ย้ายได้* ด้วย[ระบบจัดเก็บเชิงมิติ](../ae2-mechanics/spatial-io.md))
+ด้วย Pickaxe ไม่ได้ แม้จะมี Silk Touch (อย่างไรก็ตาม ย้ายได้ ด้วย[ระบบจัดเก็บเชิงมิติ](../ae2-mechanics/spatial-io.md))
 
 หน่อ Certus Quartz โตช้ามากตามธรรมชาติ แต่ <ItemLink id="growth_accelerator" /> จะเร่ง
 การเติบโตได้อย่างมากเมื่อวางติดบล็อกต้นกำเนิด ควรสร้างไว้หลายเครื่องเป็นลำดับแรก

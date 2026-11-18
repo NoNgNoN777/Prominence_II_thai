@@ -30,7 +30,7 @@ Formation Plane วางบล็อกและปล่อยไอเทม 
 
 เป็น [ชิ้นส่วนย่อยของสาย](../ae2-mechanics/cable-subparts.md)
 
-**อย่าลืมอนุญาต FAKE PLAYER ในพื้นที่เคลมชังก์ของคุณ**
+อย่าลืมอนุญาต FAKE PLAYER ในพื้นที่เคลมชังก์ของคุณ
 
 ## Filtering
 

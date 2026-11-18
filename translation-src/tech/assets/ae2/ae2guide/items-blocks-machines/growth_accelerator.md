@@ -16,7 +16,7 @@ item_ids:
 
 Growth Accelerator เร่ง [การเติบโต](../ae2-mechanics/certus-growth.md) ของ Certus หรือ Amethyst อย่างมาก เมื่อติดตั้งข้างบล็อกต้นกำเนิดผลึก
 
-น่าสนใจที่มันเร่งการเติบโตของพืชหลายชนิดได้ *ด้วย*
+น่าสนใจที่มันเร่งการเติบโตของพืชหลายชนิดได้ ด้วย
 
 <GameScene zoom="6" interactive={true}>
   <ImportStructure src="../assets/assemblies/growth_accelerator.snbt" />

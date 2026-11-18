@@ -14,7 +14,7 @@ navigation:
 <ItemLink id="certus_quartz_dust" /> หน่อ Amethyst ที่ยังไม่โตไม่ดรอปอะไรเลย Annihilation Plane จึงทุบมันเสมอ
 เพราะเครือข่ายเก็บ "ความว่างเปล่า" ได้เสมอ
 
-แก้ได้โดยเสริม Silk Touch ให้ Annihilation Plane แล้วหน่อ Amethyst ที่ยังไม่โต *จะ* ดรอปของ
+แก้ได้โดยเสริม Silk Touch ให้ Annihilation Plane แล้วหน่อ Amethyst ที่ยังไม่โต จะ ดรอปของ
 (บล็อกหน่อในระยะเติบโตต่าง ๆ) จึงกรองแยกได้
 
 จากนั้นต้องนำ <ItemLink id="minecraft:amethyst_cluster" /> ไปวางอีกครั้งด้วย <ItemLink id="formation_plane" /> แล้ว

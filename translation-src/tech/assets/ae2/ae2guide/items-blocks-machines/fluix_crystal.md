@@ -14,8 +14,8 @@ item_ids:
 
 <ItemImage id="fluix_crystal" scale="4" />
 
-*"Fluix Crystal มีความสามารถพิเศษในการดูดซับและแปลงพลังงานจากรูปแบบหนึ่งเป็นอีกรูปแบบหนึ่ง และเป็นรากฐานของ
-เทคโนโลยี Matter Energy ทั้งหมด"*
+"Fluix Crystal มีความสามารถพิเศษในการดูดซับและแปลงพลังงานจากรูปแบบหนึ่งเป็นอีกรูปแบบหนึ่ง และเป็นรากฐานของ
+เทคโนโลยี Matter Energy ทั้งหมด"
 
 หนึ่งในวัตถุดิบหลักสำหรับบล็อก [อุปกรณ์](../ae2-mechanics/devices.md) และไอเทมของ AE2 ผลิตโดยโยน Nether Quartz, Redstone และ
 <ItemLink id="charged_certus_quartz_crystal" /> ลงในน้ำ

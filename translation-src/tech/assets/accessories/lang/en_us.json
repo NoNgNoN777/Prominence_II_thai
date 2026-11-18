@@ -1,0 +1,8 @@
+{
+  "accessories.slot.tooltip.singular": "ช่อง: ",
+  "accessories.slot.tooltip.plural": "ช่อง: ",
+  "accessories.cosmetic_slot.tooltip.singular": "ช่องแต่งกาย: ",
+  "accessories.cosmetic_slot.tooltip.plural": "ช่องแต่งกาย: ",
+  "accessories.tooltip.attributes.any": "เมื่อสวมใส่:",
+  "accessories.tooltip.attributes.slot": "เมื่อสวมใส่ใน %s:"
+}

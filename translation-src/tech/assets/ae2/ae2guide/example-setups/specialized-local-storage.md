@@ -41,7 +41,7 @@ navigation:
   </BoxAnnotation>
 
 <BoxAnnotation color="#dddddd" min="1 1 0" max="2 2 0.3">
-        Crafting Terminal: มองเห็นทั้งของในที่เก็บของเครือข่ายหลัก *และ* เครือข่ายย่อย
+        Crafting Terminal: มองเห็นทั้งของในที่เก็บของเครือข่ายหลัก และ เครือข่ายย่อย
   </BoxAnnotation>
 
 <DiamondAnnotation pos="0 0.5 0.5" color="#00ff00">

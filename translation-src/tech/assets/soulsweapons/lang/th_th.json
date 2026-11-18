@@ -1,0 +1,10 @@
+{
+  "soulsweapons.weapon.useDisabled": "§4ไอเทมนี้ถูกปิดใช้งาน!§r",
+  "soulsweapons.weapon.no_collected_souls": "ไม่มีพันธมิตรที่ผูกไว้ให้เก็บกลับมา!",
+  "soulsweapons.weapon.collected_souls": "เก็บวิญญาณ %s ดวงกลับเข้าสู่ ",
+  "soulsweapons.weapon.no_freyr_sword": "ไม่มี Freyr Sword ที่ผูกไว้กับคุณ!",
+  "soulsweapons.weapon.on_cooldown": "ใช้ความสามารถนี้ไม่ได้ขณะติดเอฟเฟกต์ Cooldown!",
+  "soulsweapons.weapon.no_soulbound_weapon": "ไม่มีอาวุธ 'Soulbound' ที่ผูกไว้กับคุณ!",
+  "soulsweapons.weapon.out_of_range": "เป้าหมายอยู่นอกระยะ!",
+  "soulsweapons.weapon.bossRespawnDisabled": "§4ระบบเกิดใหม่ของบอสนี้ถูกปิดใช้งาน!§r"
+}

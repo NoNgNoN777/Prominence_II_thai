@@ -1,0 +1,21 @@
+{
+  "info.lollipop.amount": "จำนวน",
+  "info.lollipop.block": "บล็อก",
+  "info.lollipop.capacity": "ขีดความสามารถ",
+  "info.lollipop.channel": "ช่องสัญญาณ: %s",
+  "info.lollipop.clear": "ล้าง",
+  "info.lollipop.empty": "ว่าง",
+  "info.lollipop.energy.fe": "พลังงาน",
+  "info.lollipop.fluid": "ของเหลว",
+  "info.lollipop.full": "เต็ม",
+  "info.lollipop.ignore": "เพิกเฉย",
+  "info.lollipop.io.mode.pull": "ดึง",
+  "info.lollipop.io.mode.push": "ดัน",
+  "info.lollipop.owner": "เจ้าของ: %s",
+  "info.lollipop.side.down": "ลง",
+  "info.lollipop.side.east": "ตะวันออก",
+  "info.lollipop.side.north": "เหนือ",
+  "info.lollipop.side.south": "ใต้",
+  "info.lollipop.side.west": "ตะวันตก",
+  "info.lollipop.stored": "จัดเก็บแล้ว"
+}
